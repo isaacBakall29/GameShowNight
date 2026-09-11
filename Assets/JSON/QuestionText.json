@@ -1,0 +1,229 @@
+{
+    "questions":
+    [
+        {
+            "category": "category1",
+            "points": 100,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category1",        
+            "points": 200,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category1",
+            "points": 300,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category1",
+            "points": 400,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category1",    
+            "points": 500,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+
+
+
+
+
+        {
+            "category": "category2",
+            "points": 100,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category2",
+            "points": 200,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category2",
+            "points": 300,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+                {
+            "category": "category2",
+            "points": 400,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+                {
+            "category": "category2",
+            "points": 500,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+
+
+        {
+            "category": "category3",
+            "points": 100,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category3",
+            "points": 200,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category3",
+            "points": 300,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category3",
+            "points": 400,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category3",
+            "points": 500,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+
+
+        {
+            "category": "category4",
+            "points": 100,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category4",
+            "points": 200,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category4",
+            "points": 300,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+                {
+            "category": "category4",
+            "points": 400,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+                {
+            "category": "category4",
+            "points": 500,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+
+
+        {
+            "category": "category5",
+            "points": 100,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category5",
+            "points": 200,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category5",
+            "points": 300,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+                {
+            "category": "category5",
+            "points": 400,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+                {
+            "category": "category5",
+            "points": 500,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+
+
+        {
+            "category": "category6",
+            "points": 100,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category6",
+            "points": 200,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+        {
+            "category": "category6",
+            "points": 300,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        },
+                {
+            "category": "category6",
+            "points": 400,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "Stockholm är huvudstaden",
+            "used": false
+        },
+                {
+            "category": "category6",
+            "points": 500,
+            "answer": "Vad är huvudstaden i Sverige?",
+            "question": "oslo är huvudstaden",
+            "used": false
+        }
+
+    ]
+}
