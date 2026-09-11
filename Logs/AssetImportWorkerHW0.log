@@ -307,3 +307,17 @@ Importing 'GUID: 5cc88e966c8ea4258a5785b80f6eb4e7 - Path: Assets/JSON/CategoryTe
 Imported 'GUID: 5cc88e966c8ea4258a5785b80f6eb4e7' -> (Import Result ID: 'e1cc412bbeea86cc13cf1d3bf6a5b0ef') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ec6a4680250dbf6a5f3a54e08cf5b7d1 DependenciesID=52b234a25ec84bc120b2713f4bf00465 StaticDependenciesID=c222bf6988a292b4d4f588fb4df7114e 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.35 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8248.
+Memory consumption went from 480.8 MB to 477.4 MB.
+Total: 7.382000 ms (FindLiveObjects: 0.348958 ms CreateObjectMapping: 0.117792 ms MarkObjects: 6.551416 ms  DeleteObjects: 0.275750 ms)
+
+Prepare: number of updated asset objects reloaded= 0

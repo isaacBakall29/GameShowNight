@@ -682,3 +682,4 @@ Starting new worker id: 1 with log in /Users/isaac/UnityProjects/GameShowNight/L
 Worker ready: AssetImportWorkerHW1 1
 EditorHelper: Attempting to open file (using Apple events): /Users/isaac/UnityProjects/GameShowNight/Assets/JSON/CategoryText.json.
 TrimDiskCacheJob: Current cache size 0mb
+Asset Pipeline Refresh (id=2a935b2815ba6409ebd6b2f169e0de79): Total: 0.096 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
