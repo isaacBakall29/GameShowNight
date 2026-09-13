@@ -6717,3 +6717,1338 @@ Memory consumption went from 388.2 MB to 387.6 MB.
 Total: 33.760333 ms (FindLiveObjects: 0.360583 ms CreateObjectMapping: 0.097334 ms MarkObjects: 33.153750 ms  DeleteObjects: 0.035875 ms)
 
 Asset Pipeline Refresh (id=e3e62da5647ee4f5ebd3f4f173a64a33): Total: 0.171 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=a7b0d41d2a1f0456b95f1bb0f317e9b4): Total: 0.145 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Scanning for USB devices : 0.068ms
+Curl error 42: Callback aborted
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "C68ThmQz"... (expires: 2026-09-13T15:48:19Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=3ecc0adeef6f84394b81dabd6dec2d04): Total: 0.144 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Thread 0x4591a3000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.025725 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            36.156 ms
+	Integration:            87.418 ms
+	Integration of assets:  0.156 ms
+	Thread Wait Time:       0.001 ms
+	Total Operation Time:   123.731 ms
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=aa93595050e4f4b89b7deef85fd8bd14): Total: 0.221 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+UnityConnectWebRequestException: Token Exchange failed due a failure with the web request.
+  at UnityEditor.Connect.TokenExchange.VerifyTokenExchangeResponse (UnityEngine.Networking.UnityWebRequest exchangeRequest) [0x00009] in /Users/bokken/build/output/unity/unity/Editor/Mono/UnityConnect/ServiceToken/TokenExchange/TokenExchange.cs:106 
+  at UnityEditor.Connect.TokenExchange.TokenExchangeRequestAsync (UnityEditor.Connect.TokenExchangeRequest tokenExchangeRequest, System.Threading.CancellationToken cancellationToken) [0x00195] in /Users/bokken/build/output/unity/unity/Editor/Mono/UnityConnect/ServiceToken/TokenExchange/TokenExchange.cs:89 
+  at UnityEditor.Connect.TokenExchange.GetServiceTokenAsync (System.String genesisToken, System.Threading.CancellationToken cancellationToken) [0x00031] in /Users/bokken/build/output/unity/unity/Editor/Mono/UnityConnect/ServiceToken/TokenExchange/TokenExchange.cs:33 
+  at UnityEditor.Connect.ServiceToken.GetServiceTokenAsync (System.String genesisToken, System.Threading.CancellationToken cancellationToken) [0x000f3] in /Users/bokken/build/output/unity/unity/Editor/Mono/UnityConnect/ServiceToken/ServiceToken.cs:50 
+  at UnityEditor.Connect.UnityConnect.RequestNewServiceToken () [0x0003b] in /Users/bokken/build/output/unity/unity/Editor/Mono/UnityConnect/UnityConnect.bindings.cs:564 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <a145436f8291401f83a99993a54f74b5>:0 
+  at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00000] in /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/UnitySynchronizationContext.cs:155 
+  at UnityEngine.UnitySynchronizationContext.Exec () [0x00052] in /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/UnitySynchronizationContext.cs:83 
+  at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x0000e] in /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/UnitySynchronizationContext.cs:109 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:50)
+
+(Filename: /Users/bokken/build/output/unity/unity/Editor/Mono/UnityConnect/ServiceToken/TokenExchange/TokenExchange.cs Line: 106)
+
+Curl error 3: URL rejected: Error
+Curl error 3: URL rejected: Error
+Curl error 3: URL rejected: Error
+Curl error 3: URL rejected: Error
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x45c47b000 may have been prematurely finalized
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.409 ms
+	Integration:            63.668 ms
+	Integration of assets:  0.004 ms
+	Thread Wait Time:       0.003 ms
+	Total Operation Time:   67.084 ms
+Unloading 11 unused Assets / (7.5 KB). Loaded Objects now: 10824.
+Memory consumption went from 389.0 MB to 389.0 MB.
+Total: 38.553375 ms (FindLiveObjects: 0.334333 ms CreateObjectMapping: 0.073000 ms MarkObjects: 37.523334 ms  DeleteObjects: 0.510750 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x45966b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.004191 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            35.899 ms
+	Integration:            27.742 ms
+	Integration of assets:  0.035 ms
+	Thread Wait Time:       -0.001 ms
+	Total Operation Time:   63.675 ms
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "6NJ38c-V"... (expires: 2026-09-13T17:55:21Z)
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/b1e31746-d8d5-4dd1-b346-428c91bb6578", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+Thread 0x473fef000 may have been prematurely finalized
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.158 ms
+	Integration:            59.363 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   61.527 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10829.
+Memory consumption went from 389.2 MB to 388.6 MB.
+Total: 37.597000 ms (FindLiveObjects: 0.363292 ms CreateObjectMapping: 0.112125 ms MarkObjects: 36.946875 ms  DeleteObjects: 0.048125 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received 'b1e31746-d8d5-4dd1-b346-428c91bb6578'.
+Thread 0x456247000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002796 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            35.170 ms
+	Integration:            27.302 ms
+	Integration of assets:  0.032 ms
+	Thread Wait Time:       -0.001 ms
+	Total Operation Time:   62.503 ms
+Thread 0x45b8cb000 may have been prematurely finalized
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.327 ms
+	Integration:            27.239 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   29.577 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10834.
+Memory consumption went from 389.6 MB to 389.0 MB.
+Total: 39.287625 ms (FindLiveObjects: 0.373958 ms CreateObjectMapping: 0.087667 ms MarkObjects: 38.659625 ms  DeleteObjects: 0.046166 ms)
+
+Thread 0x4591a3000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002972 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.902 ms
+	Integration:            28.074 ms
+	Integration of assets:  0.024 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   30.004 ms
+Thread 0x473fef000 may have been prematurely finalized
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.124 ms
+	Integration:            27.881 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   30.013 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10839.
+Memory consumption went from 389.9 MB to 389.3 MB.
+Total: 43.931875 ms (FindLiveObjects: 0.376375 ms CreateObjectMapping: 0.095208 ms MarkObjects: 43.276792 ms  DeleteObjects: 0.060333 ms)
+
+Thread 0x4591a3000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002637 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.834 ms
+	Integration:            28.716 ms
+	Integration of assets:  0.025 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   30.580 ms
+Thread 0x4753b3000 may have been prematurely finalized
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.152 ms
+	Integration:            65.552 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   67.714 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10844.
+Memory consumption went from 390.1 MB to 389.5 MB.
+Total: 44.578916 ms (FindLiveObjects: 0.359250 ms CreateObjectMapping: 0.085125 ms MarkObjects: 43.977750 ms  DeleteObjects: 0.036875 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "c1cdElTZ"... (expires: 2026-09-13T19:56:58Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+
+Asset Pipeline Refresh (id=0220605167cc94624a3c8f5e83f78fc0): Total: 0.374 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=371 ms
+		Asset DB Callback time: managed=0 ms, native=2 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1599, non-scripts=3302
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 2.821ms
+	ApplyChangesToAssetFolders: 0.419ms
+	Scan: 347.341ms
+	Collect global state as custom dependencies: 0.596ms
+	ProcessAssetsWithTransientArtifactChanges: 0.345ms
+	CategorizeAssets: 1.491ms
+	ImportOutOfDateAssets: 0.789ms (0.090ms without children)
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.267ms
+		ImportSchedulerStart: 0.347ms
+	GatherAllCurrentPrimaryImportResultRevisions: 1.588ms
+	UnloadStreamsBegin: 1.406ms
+	PersistCurrentRevisions: 0.092ms
+	Untracked: 16.373ms
+
+Thread 0x458547000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003510 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            38.754 ms
+	Integration:            89.866 ms
+	Integration of assets:  0.035 ms
+	Thread Wait Time:       0.000 ms
+	Total Operation Time:   128.656 ms
+Thread 0x45b8cb000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.546 ms
+	Integration:            29.413 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   31.968 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10849.
+Memory consumption went from 390.4 MB to 389.8 MB.
+Total: 48.400208 ms (FindLiveObjects: 0.381292 ms CreateObjectMapping: 0.086958 ms MarkObjects: 47.751292 ms  DeleteObjects: 0.055458 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x4591a3000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002381 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.861 ms
+	Integration:            26.324 ms
+	Integration of assets:  0.025 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   28.215 ms
+Thread 0x4753b3000 may have been prematurely finalized
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.504 ms
+	Integration:            62.218 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   64.731 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10854.
+Memory consumption went from 390.6 MB to 390.0 MB.
+Total: 45.736458 ms (FindLiveObjects: 0.353417 ms CreateObjectMapping: 0.071750 ms MarkObjects: 45.128417 ms  DeleteObjects: 0.038625 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x456247000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002417 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            33.698 ms
+	Integration:            28.135 ms
+	Integration of assets:  0.033 ms
+	Thread Wait Time:       -0.001 ms
+	Total Operation Time:   61.865 ms
+Thread 0x4591a3000 may have been prematurely finalized
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.092 ms
+	Integration:            30.516 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   32.616 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10859.
+Memory consumption went from 391.3 MB to 390.7 MB.
+Total: 50.808458 ms (FindLiveObjects: 0.367666 ms CreateObjectMapping: 0.089917 ms MarkObjects: 50.184958 ms  DeleteObjects: 0.039375 ms)
+
+Thread 0x458547000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002500 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.089 ms
+	Integration:            30.245 ms
+	Integration of assets:  0.023 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   32.362 ms
+Thread 0x473fef000 may have been prematurely finalized
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.972 ms
+	Integration:            29.753 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   31.733 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10864.
+Memory consumption went from 392.0 MB to 391.3 MB.
+Total: 50.359958 ms (FindLiveObjects: 0.386000 ms CreateObjectMapping: 0.078542 ms MarkObjects: 49.731125 ms  DeleteObjects: 0.038625 ms)
+
+Asset Pipeline Refresh (id=835b2c056e6764beab4fb07113e4e75b): Total: 0.193 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=0e67bb7abc8c64926aa86259be6eafc2): Total: 0.138 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+2026-09-13 21:15:10.114 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc09f200 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=04e63c3b0aa094c8280068530c921dfb): Total: 0.070 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 67d327dc581664571a066d199357bee6 - Path: Assets/Fonts' with importer (DefaultImporter)
+Imported 'GUID: 67d327dc581664571a066d199357bee6' -> (Import Result ID: 'a39b379f0fcab1ea685c879c4ddd53c5') in 0.005 seconds [static dependencies only]. Details - ImportResultOutputID=f80c3dbd75438b761c154caf89a4012e DependenciesID=a1e46e95e4368c651922bd0065485c8a StaticDependenciesID=bbe677d7439b018d5a3c26660f7e3051 
+Asset Pipeline Refresh (id=228413ee8808f492e90597fb35e44e37): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 67d327dc581664571a066d199357bee6 - Path: Assets/Fonts - Importer: PreviewImporter -> (Import Result ID: '46740b5e898561b42af354e70d6d57bd') in 0.015126291 seconds
+[Worker0] Imported GUID: 67d327dc581664571a066d199357bee6 - Path: Assets/Fonts - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'fe4766747e70dc066621b20968cd61ae') in 0.047980792 seconds
+Importing 'GUID: 3bd2f8966d5d14034a6835b64c33d6cf - Path: Assets/Fonts/ITC Korinna Bold.otf' with importer (TrueTypeFontImporter)
+Imported 'GUID: 3bd2f8966d5d14034a6835b64c33d6cf' -> (Import Result ID: '2106c4aab9be92241e12000c78394005') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5f4cdc0bf9fec2a1022265058a3565af DependenciesID=6a94de1717a05c8308693b9bf9dff94e StaticDependenciesID=f5f3eb2d9a581937401d88d1569b2693 
+Asset Pipeline Refresh (id=29ebcd65b2cdc4c638a450228e7a3c51): Total: 0.110 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=5905c353073734601b5b9435dd707cc8): Total: 0.089 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: 3bd2f8966d5d14034a6835b64c33d6cf - Path: Assets/Fonts/ITC Korinna Bold.otf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'af4eb4f716e91ac2206b6d9a091164cc') in 0.031086666 seconds
+[Worker0] Imported GUID: 3bd2f8966d5d14034a6835b64c33d6cf - Path: Assets/Fonts/ITC Korinna Bold.otf - Importer: PreviewImporter -> (Import Result ID: 'fd8952c4912cb101a36d2eaa0eb8d9d3') in 0.336630333 seconds
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '7924c9155dac0dbcfec43036fd6c0f51') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=be05d6ad515ad67f5ceca771ec4d51d6 DependenciesID=5a10905dcecae535cceaca0a941085d4 StaticDependenciesID=35f319c10bfb5933e380c0f907670fd4 
+Refreshing native plugins compatible for Editor in 2.60 ms, found 3 plugins.
+Asset Pipeline Refresh (id=c690ca3130d0e4fa79359a7d0fcaeac9): Total: 0.060 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '8136c01151c71e2f740b746df884689c') in 0.0224985 seconds
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '9b31603b8489b8ed27462426f253535d') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=56eaae9fb76730fe0be22c8d98d5c07c DependenciesID=1745ae038479ee760d9470f16347fb3f StaticDependenciesID=5e0fc02972e73878f029b9db1a4e3897 
+Asset Pipeline Refresh (id=51effae1c0dd2488093c8c432f658240): Total: 0.043 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: 'aa77f33155bc91cb4ba984b555a8e8f6') in 0.015439917 seconds
+Asset Pipeline Refresh (id=4683a6898b039448495072b95b358672): Total: 0.039 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '4c431bb581dbc18bb509deb3fd69907b') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8e0c31608025fb1694251295da969df8 DependenciesID=e516a52361833975e710fedc56117ec6 StaticDependenciesID=972f72148e9297667451cb13fc0280d7 
+Asset Pipeline Refresh (id=aca7d3269301a460b9988e8e6290dc54): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '5428683c5337f7213871f33d0b397d34') in 0.012443708 seconds
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'f24b54e125a0539739242c5a2cbb7e50') in 0.050666125 seconds
+Asset Pipeline Refresh (id=f6f90bc7e8824458ea7487045290db73): Total: 0.175 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+2026-09-13 21:18:40.462 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc08e4e0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Refreshing native plugins compatible for Editor in 3.85 ms, found 3 plugins.
+Asset Pipeline Refresh (id=51881b6e640254c0687f6fbb15105f8f): Total: 0.054 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=ebf8654a3ece743d0932acf7ca4b5edf): Total: 0.139 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Asset Pipeline Refresh (id=4fd7f37df82174769955a04efdbf982c): Total: 0.102 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 5a15e7fd73a7147db969e2adec526102 - Path: Assets/Fonts/ITC Korinna Bold.woff2' with importer (DefaultImporter)
+Imported 'GUID: 5a15e7fd73a7147db969e2adec526102' -> (Import Result ID: 'b0d82ff19864ac447565e7874869923c') in 0.611 seconds [static dependencies only]. Details - ImportResultOutputID=c32ea87b4eb5f53c980d72e81efc1826 DependenciesID=dfba031f201d8fa99f25c25b58a199f6 StaticDependenciesID=3edd12c033cab15e98939a98c1e8ebc7 
+Refreshing native plugins compatible for Editor in 2.15 ms, found 3 plugins.
+
+Asset Pipeline Refresh (id=bd572b1717f174697afaa596b443b8a2): Total: 0.737 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=723 ms
+		Asset DB Callback time: managed=9 ms, native=3 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1600, non-scripts=3303
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 1
+	ApplyChangesToAssetFolders: 0.175ms
+	Scan: 85.579ms
+	Collect global state as custom dependencies: 0.104ms
+	OnSourceAssetsModified: 0.054ms
+	CategorizeAssets: 13.456ms
+	ImportOutOfDateAssets: 615.862ms (1.405ms without children)
+		ImportManagerImport: 613.720ms (0.338ms without children)
+		UnloadImportedAssets: 0.050ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.251ms
+		InitializingProgressBar: 0.280ms
+		ImportSchedulerStart: 0.129ms
+	PostProcessAllAssets: 7.812ms
+		XRBuildSystem.XRAssetImported 0.219ms
+		MonoPostProcessAllAssets: 7.313ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 2.301ms
+			SpriteEditorTexturePostprocessor.OnPostprocessAllAssets 1.274ms
+			SyncVS.PostprocessSyncProject 1.074ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.355ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.306ms
+			AssetChangedListener.OnPostprocessAllAssets 0.303ms
+			SpriteShapeAssetPostProcessor.OnPostprocessAllAssets 0.170ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.061ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 0.051ms
+	PostAssetChangesProfiler: 5.406ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.256ms
+	PersistCurrentRevisions: 0.164ms
+	Untracked: 7.591ms
+
+Asset Pipeline Refresh (id=ebf5d27df3e4f4e97b9f2ab24e80f9b6): Total: 0.091 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: 5a15e7fd73a7147db969e2adec526102 - Path: Assets/Fonts/ITC Korinna Bold.woff2 - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '6fa45483ccd7bcea20aef1e1afb9c987') in 0.014811625 seconds
+[Worker0] Imported GUID: 5a15e7fd73a7147db969e2adec526102 - Path: Assets/Fonts/ITC Korinna Bold.woff2 - Importer: PreviewImporter -> (Import Result ID: '75f6937b200517a09502009aa3f86b54') in 0.01229125 seconds
+Asset Pipeline Refresh (id=ebe7a5b999e0d4b76b2e597f006365d2): Total: 0.047 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=c9e03dcce02004f39a4c6ebddbbde9d7): Total: 0.062 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '9184667a4210b94545826f539709ddc6') in 0.037886333 seconds
+Asset Pipeline Refresh (id=bf22d998428004e82bc2b400004e5812): Total: 0.104 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=ab54c5c8f1e8940b3a60b90740f0a2e8): Total: 0.089 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=44f7934155745401e8b3ec4285ee8fc1): Total: 0.080 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/ITC Korinna Bold.ttf' with importer (TrueTypeFontImporter)
+Imported 'GUID: 60a80472670d240a89978e5245aa1791' -> (Import Result ID: '4a7c427517ad0b38c098ccdee6cf1879') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=74dc9dc37513c46b1bbe057c8aa9eae8 DependenciesID=33d8e6f51bc818f0e7f59cb6b6f00b0f StaticDependenciesID=a76d9f9b4bb33410c50ff6a2ce26e423 
+Asset Pipeline Refresh (id=6b32eb4749f9b45709cca799f5791972): Total: 0.090 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '1ca6e301c7c067e061bcf278b252bee2') in 0.016671667 seconds
+2026-09-13 21:22:03.541 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc09f2a0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=c2e0a000ccfbd4e25bf5fb57bc521395): Total: 0.046 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=79cd9b6942d4e41f58cd2e15a9b6d9ba): Total: 0.135 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Invalid AssetDatabase path: /Users/isaac/Downloads/ITC Korinna Bold.ttf. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchySceneHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:630)
+Unity.Hierarchy.Editor.HierarchySceneHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/ITC Korinna Bold.ttf. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:752)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:427)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/ITC Korinna Bold.ttf. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchySceneHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:630)
+Unity.Hierarchy.Editor.HierarchySceneHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/ITC Korinna Bold.ttf. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:752)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:427)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Importing 'GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1 - Path: Assets/Fonts/ITC Korinna Bold.ttf' with importer (TrueTypeFontImporter)
+Imported 'GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1' -> (Import Result ID: '3f413e48e732b90c7181044540df6efd') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8ff96dd415d6680f588b29f0e713c9d2 DependenciesID=823b1bc448ff215e01b3eec8b1473b84 StaticDependenciesID=5186eb2ea7a323b6f45f1e333d7f1dba 
+Asset Pipeline Refresh (id=21e1ce00ce6a64f6e9cf459a1e7f9413): Total: 0.103 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'fd4d5b85a10b63713c16af2cfee3d72a') in 0.021523458 seconds
+Asset Pipeline Refresh (id=88e66508527ca437da23a831a66fc423): Total: 0.082 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: PreviewImporter -> (Import Result ID: '61c5377185804ec5b074d33a48d26ff9') in 0.035605 seconds
+2026-09-13 21:22:43.456 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc08eee0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Refreshing native plugins compatible for Editor in 2.31 ms, found 3 plugins.
+Asset Pipeline Refresh (id=d0efeed976f344582ac6862ec49f5ab4): Total: 0.048 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=971ddc363b7634c8b962f74c40c42fb0): Total: 0.128 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Thread 0x456247000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003228 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            35.401 ms
+	Integration:            89.827 ms
+	Integration of assets:  0.031 ms
+	Thread Wait Time:       -0.002 ms
+	Total Operation Time:   125.257 ms
+Thread 0x45657b000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.299 ms
+	Integration:            32.463 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   34.769 ms
+Unloading 58 unused Assets / (0.6 MB). Loaded Objects now: 10884.
+Memory consumption went from 398.8 MB to 398.2 MB.
+Total: 55.317750 ms (FindLiveObjects: 0.391167 ms CreateObjectMapping: 0.136250 ms MarkObjects: 54.503291 ms  DeleteObjects: 0.162625 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=c162518b804784a57b73a4b97979fc4f): Total: 0.167 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Invalid AssetDatabase path: /Users/isaac/Downloads/itc-korinna-bold.zip. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchySceneHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:630)
+Unity.Hierarchy.Editor.HierarchySceneHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/itc-korinna-bold.zip. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:752)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:427)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/itc-korinna-bold.zip. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchySceneHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:630)
+Unity.Hierarchy.Editor.HierarchySceneHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/itc-korinna-bold.zip. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:752)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:427)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Importing 'GUID: 38df5a34fe81a443aa91fdcaee3da17c - Path: Assets/Fonts/itc-korinna-bold.zip' with importer (DefaultImporter)
+Imported 'GUID: 38df5a34fe81a443aa91fdcaee3da17c' -> (Import Result ID: 'e9c554a9d86a1dff4b89c84787590780') in 0.764 seconds [static dependencies only]. Details - ImportResultOutputID=102d075b27de6b0440bf4cdeb8e95f3f DependenciesID=f3c94035fc7a463bef00b2c10b81cd01 StaticDependenciesID=3b95601d2cdfe20ae2df46f03dd1f77b 
+
+Asset Pipeline Refresh (id=dce3f9f92cb9e4bee8f373570c95b5d6): Total: 0.898 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=883 ms
+		Asset DB Callback time: managed=8 ms, native=5 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=1600, non-scripts=3304
+		Asset File Changes: new=1, changed=1, moved=0, deleted=0
+		Scan Filter Count: 1
+	ApplyChangesToAssetFolders: 0.153ms
+	Scan: 92.624ms
+	Collect global state as custom dependencies: 0.190ms
+	OnSourceAssetsModified: 0.077ms
+	CategorizeAssets: 14.300ms
+	ImportOutOfDateAssets: 770.520ms (1.276ms without children)
+		ImportManagerImport: 768.077ms (0.324ms without children)
+		UnloadImportedAssets: 0.066ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.344ms
+		InitializingProgressBar: 0.556ms
+		ImportSchedulerStart: 0.166ms
+	PostProcessAllAssets: 8.629ms
+		XRBuildSystem.XRAssetImported 3.547ms
+		MonoPostProcessAllAssets: 4.915ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 1.435ms
+			SyncVS.PostprocessSyncProject 0.952ms
+			SpriteEditorTexturePostprocessor.OnPostprocessAllAssets 0.548ms
+			AssetChangedListener.OnPostprocessAllAssets 0.436ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.244ms
+			SpriteShapeAssetPostProcessor.OnPostprocessAllAssets 0.151ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 0.085ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.060ms
+	PostAssetChangesProfiler: 4.947ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.226ms
+	PersistCurrentRevisions: 0.221ms
+	Untracked: 5.688ms
+
+[Worker0] Imported GUID: 38df5a34fe81a443aa91fdcaee3da17c - Path: Assets/Fonts/itc-korinna-bold.zip - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'fb7bb2b71a8ea5d55d1367bfe93f5ae0') in 0.023637584 seconds
+Asset Pipeline Refresh (id=f3eef905551594f6bab21fdf573ec780): Total: 0.090 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/ITC Korinna Bold.ttf - Importer: PreviewImporter -> (Import Result ID: 'bc7feb1b8a2177740e2ef2cee92651e0') in 0.030126833 seconds
+2026-09-13 21:24:39.817 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc09e440 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Refreshing native plugins compatible for Editor in 2.58 ms, found 3 plugins.
+Asset Pipeline Refresh (id=9d151b5a4a88242c7908400c78ce63a6): Total: 0.051 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=06777ec1ac0944be29dc5655804c3315): Total: 0.128 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+[Worker0] Imported GUID: 38df5a34fe81a443aa91fdcaee3da17c - Path: Assets/Fonts/itc-korinna-bold.zip - Importer: PreviewImporter -> (Import Result ID: '25bc7c5bd494a3ed917007404742c27e') in 0.010196583 seconds
+2026-09-13 21:25:22.398 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8e5606b20 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Refreshing native plugins compatible for Editor in 5.55 ms, found 3 plugins.
+Asset Pipeline Refresh (id=d72ee9ad3741e410080d90e3d05f091d): Total: 0.053 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=0f2a8747253b343759c0313bfcb9e12a): Total: 0.160 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Asset Pipeline Refresh (id=d5daee59e1df44c1cbeb1d09a41ba289): Total: 0.130 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/ITC Korinna Bold.ttf' with importer (TrueTypeFontImporter)
+Imported 'GUID: 60a80472670d240a89978e5245aa1791' -> (Import Result ID: '4a7c427517ad0b38c098ccdee6cf1879') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=74dc9dc37513c46b1bbe057c8aa9eae8 DependenciesID=33d8e6f51bc818f0e7f59cb6b6f00b0f StaticDependenciesID=a76d9f9b4bb33410c50ff6a2ce26e423 
+Refreshing native plugins compatible for Editor in 4.56 ms, found 3 plugins.
+Asset Pipeline Refresh (id=9980f7515c81e4aa497cd7b1b35152ce): Total: 0.127 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=beb0366dbf2f54814a68f72bacabf49c): Total: 0.086 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+2026-09-13 21:26:38.670 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8ddeb05a0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=7435202e5fa2b4c8c86edaff3005bc9d): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=0c12801591b244852a46be68c0bc4e14): Total: 0.005 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '2607b48a71bcfa5d60aac318bf820328') in 0.012287167 seconds
+2026-09-13 21:27:07.011 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8d18a48c0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Refreshing native plugins compatible for Editor in 2.19 ms, found 3 plugins.
+Asset Pipeline Refresh (id=d456558479a564602909ffca6d53e0b9): Total: 0.050 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=f30f7180354294a9e8999852abacdacd): Total: 0.131 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+2026-09-13 21:27:13.048 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc0afca0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Invalid AssetDatabase path: /Users/isaac/Downloads/ITC Korinna Bold.ttf. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchySceneHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:630)
+Unity.Hierarchy.Editor.HierarchySceneHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/ITC Korinna Bold.ttf. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:752)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:427)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/ITC Korinna Bold.ttf. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchySceneHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:630)
+Unity.Hierarchy.Editor.HierarchySceneHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchySceneHandler.bindings.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Invalid AssetDatabase path: /Users/isaac/Downloads/ITC Korinna Bold.ttf. Use path relative to the project folder.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEditor.AssetDatabase:GetMainAssetTypeAtPath (string)
+Unity.Hierarchy.Editor.DragAndDropHelpers:IsDraggingScene (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/Managed/DragAndDropHelpers.cs:57)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:DoHandleDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData&,bool) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:752)
+Unity.Hierarchy.Editor.HierarchyGameObjectHandler:Unity.Hierarchy.IHierarchyEditorNodeTypeHandler.CanAcceptDrop (Unity.Hierarchy.HierarchyViewDragAndDropHandlingData modreq(System.Runtime.InteropServices.InAttribute)&) (at /Users/bokken/build/output/unity/unity/Modules/HierarchyEditor/ScriptBindings/HierarchyGameObjectHandler.bindings.cs:427)
+Unity.Hierarchy.HierarchyViewDragHandler:HandleNodeHandlersAcceptDrop (Unity.Hierarchy.HierarchyViewDragHandler/HierarchyViewDragAndDropTargets,int,UnityEngine.UIElements.DragAndDropData,Unity.Hierarchy.HierarchyNode&,bool) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:414)
+Unity.Hierarchy.HierarchyViewDragHandler:GetVisualMode (UnityEngine.UIElements.HandleDragAndDropArgs&) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:305)
+Unity.Hierarchy.HierarchyViewDragHandler:DragAndDropUpdate (UnityEngine.UIElements.HandleDragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/Hierarchy/Managed/HierarchyViewDragHandler.cs:272)
+UnityEngine.UIElements.HierarchyV2.CollectionView:RaiseHandleDragAndDrop (UnityEngine.Vector2,UnityEngine.UIElements.DragAndDropArgs) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionView.cs:2173)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:GetVisualMode (UnityEngine.Vector3,UnityEngine.EventModifiers,UnityEngine.UIElements.HierarchyV2.CollectionViewDragger/DragPosition&) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:216)
+UnityEngine.UIElements.HierarchyV2.CollectionViewDragger:UpdateDrag (UnityEngine.Vector3,UnityEngine.EventModifiers) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Controls/CollectionView/CollectionViewDragger.cs:106)
+UnityEngine.UIElements.DragEventsProcessor:OnDragUpdate (UnityEngine.UIElements.DragUpdatedEvent) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/DragAndDrop/DragEventsProcessor.cs:249)
+UnityEngine.UIElements.EventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:InvokeCallback (System.Delegate) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventBase.cs:750)
+UnityEngine.UIElements.EventNoArgValue:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventCallbackInternal) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallback.cs:149)
+UnityEngine.UIElements.EventCallbackRegistry/DynamicCallbackList:Invoke (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.EventCallbackRegistry) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventCallbackRegistry.cs:379)
+UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPath (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:212)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToElementUnderPointerOrPanelRoot (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:532)
+UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/EventDispatchUtilities.cs:569)
+UnityEngine.UIElements.MouseEventBase`1<UnityEngine.UIElements.DragUpdatedEvent>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Events/MouseEvents.cs:336)
+UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:420)
+UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/EventDispatcher.cs:216)
+UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode) (at /Users/bokken/build/output/unity/unity/Modules/UIElements/Core/Panel.cs:780)
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/EditorEventDispatchUtility.cs:87)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event) (at /Users/bokken/build/output/unity/unity/Modules/UIElementsEditor/WindowBackends/DefaultWindowBackend.cs:114)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&) (at /Users/bokken/build/output/unity/unity/Editor/Mono/GUIView.cs:86)
+
+[/Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs line 23]
+
+Importing 'GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/Fonts/ITC Korinna Bold.ttf' with importer (TrueTypeFontImporter)
+Imported 'GUID: 60a80472670d240a89978e5245aa1791' -> (Import Result ID: '4a7c427517ad0b38c098ccdee6cf1879') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=74dc9dc37513c46b1bbe057c8aa9eae8 DependenciesID=33d8e6f51bc818f0e7f59cb6b6f00b0f StaticDependenciesID=a76d9f9b4bb33410c50ff6a2ce26e423 
+Asset Pipeline Refresh (id=0d81f1ec013934affb8b49335d9299de): Total: 0.109 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=6c66f7cbe12d24b2ea866c07dcae6307): Total: 0.085 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 5d1c49f3133214c4a8d6c30aac0980ee - Path: Assets/TextMesh Pro/Glyph Report.txt' with importer (TextScriptImporter)
+Imported 'GUID: 5d1c49f3133214c4a8d6c30aac0980ee' -> (Import Result ID: 'c8cc2151763168ad48221f2b913ac8b9') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=8ebf2427e763d34db50a61dadffc7607 DependenciesID=14c1f4db5d4540727faafa62d7ad4b00 StaticDependenciesID=56b57b8e36c3b15d82639786553eb92c 
+[Licensing::Client] Successfully resolved entitlement details
+Refreshing native plugins compatible for Editor in 3.53 ms, found 3 plugins.
+Asset Pipeline Refresh (id=42617ef1bb3814323bac6fb4b29b9658): Total: 0.234 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Glyph packing completed in: 8.954 ms
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+TMPro.EditorUtilities.TMPro_FontAssetCreatorWindow:Update () (at ./Library/PackageCache/com.unity.ugui@7bdf7d4d8aaf/Editor/TMP/TMPro_FontAssetCreatorWindow.cs:315)
+UnityEditor.HostView:SendUpdate () (at /Users/bokken/build/output/unity/unity/Editor/Mono/HostView.cs:723)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorApplication.cs:464)
+
+(Filename: ./Library/PackageCache/com.unity.ugui@7bdf7d4d8aaf/Editor/TMP/TMPro_FontAssetCreatorWindow.cs Line: 315)
+
+Font Atlas generation completed in: 2.243 ms
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+TMPro.EditorUtilities.TMPro_FontAssetCreatorWindow:Update () (at ./Library/PackageCache/com.unity.ugui@7bdf7d4d8aaf/Editor/TMP/TMPro_FontAssetCreatorWindow.cs:323)
+UnityEditor.HostView:SendUpdate () (at /Users/bokken/build/output/unity/unity/Editor/Mono/HostView.cs:723)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorApplication.cs:464)
+
+(Filename: ./Library/PackageCache/com.unity.ugui@7bdf7d4d8aaf/Editor/TMP/TMPro_FontAssetCreatorWindow.cs Line: 323)
+
+Asset Pipeline Refresh (id=70fd70d6d77fb48bfad4e9b86fcee7b2): Total: 0.064 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 5d1c49f3133214c4a8d6c30aac0980ee - Path: Assets/TextMesh Pro/Glyph Report.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '9555eab4ceac5d7ae054dda47d257eee') in 0.011829917 seconds
+Importing 'GUID: 1cc13052b3af0471688186ac20991bfd - Path: Assets/Fonts/ITC Korinna Bold SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 1cc13052b3af0471688186ac20991bfd' -> (Import Result ID: '0ec8e7c488f0fb0178b627c164bade0f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=b5c96d52ac725177c1b7795b651a1c52 DependenciesID=9e737787e4450346e32543d110dd35fb StaticDependenciesID=c810750a2327e67ba9a866dc4ecfc910 
+Refreshing native plugins compatible for Editor in 4.75 ms, found 3 plugins.
+Asset Pipeline Refresh (id=cfc6b376c4783414ca1834e059144c33): Total: 0.044 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '403c6c1a416723476486c6c76ad86f7f') in 0.000 seconds [static dependencies only]. Details - ImportResultOutputID=43b4ee972f78e910f47a00fe3c96f65c DependenciesID=1aedbe56ae62f321fe459982db2fa012 StaticDependenciesID=e9a43e809c5953780a851aff477bfce8 
+Importing 'GUID: 1cc13052b3af0471688186ac20991bfd - Path: Assets/Fonts/ITC Korinna Bold SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 1cc13052b3af0471688186ac20991bfd' -> (Import Result ID: '647eb02cd1b595bbd73158e1b1a12cfd') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=debc4dbec2d74ee79630dcdaa5b6dc5d DependenciesID=141efa1b8b05e3da09b8f53d38656eb5 StaticDependenciesID=4cbeb919b682d32bb9461f6249848759 
+Importing 'GUID: 2e498d1c8094910479dc3e1b768306a4 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 2e498d1c8094910479dc3e1b768306a4' -> (Import Result ID: '140423474d9e8fc53dc46a537c5adaf3') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=35c56ade0d07983cc0af010f13541481 DependenciesID=dbf14a598def93e6c0395d1d275f7591 StaticDependenciesID=b50b0f0673df91ec7607b046f5e363b3 
+Asset Pipeline Refresh (id=cd490116990114b0a89c6436f671fcf2): Total: 0.032 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 1cc13052b3af0471688186ac20991bfd - Path: Assets/Fonts/ITC Korinna Bold SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 1cc13052b3af0471688186ac20991bfd' -> (Import Result ID: '647eb02cd1b595bbd73158e1b1a12cfd') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=debc4dbec2d74ee79630dcdaa5b6dc5d DependenciesID=141efa1b8b05e3da09b8f53d38656eb5 StaticDependenciesID=4cbeb919b682d32bb9461f6249848759 
+Asset Pipeline Refresh (id=0fddfba14d4e3456c83db7bae766eda7): Total: 0.009 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=e25d5a10eef614a40bfe0019c8da4b1b): Total: 0.072 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 1cc13052b3af0471688186ac20991bfd - Path: Assets/Fonts/ITC Korinna Bold SDF.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'ddb0a1af9a3c3fed6b0975705a31931c') in 0.041381667 seconds
+[Worker1] Imported GUID: 2e498d1c8094910479dc3e1b768306a4 - Path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '536285b518be87081a2c395a4b2b14b3') in 0.101150875 seconds
+2026-09-13 21:28:38.561 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc09f480 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=98239bcfba1764889b3cd60dd29d39c1): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=9099ff649b2794f0f9fa415077c6c85a): Total: 0.151 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '6ebaca9f584d7ed6142a115cf68f274a') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=33ebe1a6e6c112030cacd7d8b0207913 DependenciesID=2d364777ad72e59b903637d91dd8ba81 StaticDependenciesID=4b5033b77ce5379167171c4821fa932d 
+Asset Pipeline Refresh (id=e2f0289b8076247939988a6540472c53): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '6075975963df1fdb6544d64e65369cc8') in 0.01897975 seconds
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '4ca1e5cd1b315cffdc184d15b9b0b179') in 0.016662416 seconds
+Thread 0x456247000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003973 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            53.079 ms
+	Integration:            80.444 ms
+	Integration of assets:  0.039 ms
+	Thread Wait Time:       -0.007 ms
+	Total Operation Time:   133.555 ms
+Thread 0x49530b000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.935 ms
+	Integration:            31.481 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   33.424 ms
+Unloading 44 unused Assets / (0.7 MB). Loaded Objects now: 10907.
+Memory consumption went from 404.5 MB to 403.9 MB.
+Total: 60.880792 ms (FindLiveObjects: 0.360042 ms CreateObjectMapping: 0.091250 ms MarkObjects: 60.190792 ms  DeleteObjects: 0.118459 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x456247000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002624 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.034 ms
+	Integration:            38.747 ms
+	Integration of assets:  0.025 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   40.812 ms
+Thread 0x49530b000 may have been prematurely finalized
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.378 ms
+	Integration:            36.226 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   38.612 ms
+Unloading 12 unused Assets / (0.6 MB). Loaded Objects now: 10913.
+Memory consumption went from 405.6 MB to 405.0 MB.
+Total: 60.279750 ms (FindLiveObjects: 0.384833 ms CreateObjectMapping: 0.098083 ms MarkObjects: 59.610000 ms  DeleteObjects: 0.053125 ms)
+
+Asset Pipeline Refresh (id=ac17c8faf381d458d96ce9124133a494): Total: 0.213 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: da2fac6799677429c8e763bb405bdf11 - Path: Assets/Swiss 911 Ultra Compressed BT Regular.ttf' with importer (TrueTypeFontImporter)
+Imported 'GUID: da2fac6799677429c8e763bb405bdf11' -> (Import Result ID: 'c4149d52ac89890f0b4bb5c912cafef6') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=11416fa493cdf722cfe34bd848287df2 DependenciesID=e04d7956a57fc35630e96f05c46e6326 StaticDependenciesID=54f1aa90eefa8b41dacf80ff1453a072 
+Asset Pipeline Refresh (id=b23d3f64bb7714565a4f8c0cc3d4497a): Total: 0.117 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: da2fac6799677429c8e763bb405bdf11 - Path: Assets/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '42994c9ec8b14a103811fc626c6e83f8') in 0.027309583 seconds
+Importing 'GUID: f94288ecf824a41d98b8e54128d9740d - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular.ttf' with importer (TrueTypeFontImporter)
+Imported 'GUID: f94288ecf824a41d98b8e54128d9740d' -> (Import Result ID: '4fe7f0d6e11799e39c2fa5b9aeedbd66') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=21923774ae60c49a1aec57cc6b407a34 DependenciesID=3ab27052c33390a2316b34b152b18256 StaticDependenciesID=d065541eb86cf78c54c62526c6fc65c7 
+Asset Pipeline Refresh (id=4aa46d9433e9843228c86a6b0597459b): Total: 0.109 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: f94288ecf824a41d98b8e54128d9740d - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '575ccb280839435e3ba39404b8f4e64d') in 0.022779125 seconds
+Asset Pipeline Refresh (id=933088dcec13649e3901f2f4f680f9f6): Total: 0.097 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: da2fac6799677429c8e763bb405bdf11 - Path: Assets/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: PreviewImporter -> (Import Result ID: '5104f53ab5400f0fc0fa55c952506e87') in 0.024977292 seconds
+2026-09-13 21:32:56.835 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8e5607f20 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Refreshing native plugins compatible for Editor in 5.66 ms, found 3 plugins.
+Asset Pipeline Refresh (id=782daa66640e24a06b47e52f5796ad8a): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=d09975c3bf43644d7888d1da8d949c51): Total: 0.129 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+[Worker0] Imported GUID: f94288ecf824a41d98b8e54128d9740d - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: PreviewImporter -> (Import Result ID: 'b108fe5357e0d50303cd7cfcb6e89a1d') in 0.016422459 seconds
+2026-09-13 21:33:04.081 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc0ad0e0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Importing 'GUID: 5d1c49f3133214c4a8d6c30aac0980ee - Path: Assets/TextMesh Pro/Glyph Report.txt' with importer (TextScriptImporter)
+Imported 'GUID: 5d1c49f3133214c4a8d6c30aac0980ee' -> (Import Result ID: 'ff972efff5bbf7c23cc6872fdb7c33dc') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=3e9a1866d1456f0c599a4c198d386dde DependenciesID=d4dea29a0b1502407b011533849cd35d StaticDependenciesID=fc5ead48cebae9b9db6ad04d1c1530ac 
+Refreshing native plugins compatible for Editor in 4.34 ms, found 3 plugins.
+Asset Pipeline Refresh (id=9d110826657064c60a00ef7bb24db590): Total: 0.144 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+Glyph packing completed in: 4.445 ms
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+TMPro.EditorUtilities.TMPro_FontAssetCreatorWindow:Update () (at ./Library/PackageCache/com.unity.ugui@7bdf7d4d8aaf/Editor/TMP/TMPro_FontAssetCreatorWindow.cs:315)
+UnityEditor.HostView:SendUpdate () (at /Users/bokken/build/output/unity/unity/Editor/Mono/HostView.cs:723)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorApplication.cs:464)
+
+(Filename: ./Library/PackageCache/com.unity.ugui@7bdf7d4d8aaf/Editor/TMP/TMPro_FontAssetCreatorWindow.cs Line: 315)
+
+Font Atlas generation completed in: 5.001 ms
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+TMPro.EditorUtilities.TMPro_FontAssetCreatorWindow:Update () (at ./Library/PackageCache/com.unity.ugui@7bdf7d4d8aaf/Editor/TMP/TMPro_FontAssetCreatorWindow.cs:323)
+UnityEditor.HostView:SendUpdate () (at /Users/bokken/build/output/unity/unity/Editor/Mono/HostView.cs:723)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions () (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorApplication.cs:464)
+
+(Filename: ./Library/PackageCache/com.unity.ugui@7bdf7d4d8aaf/Editor/TMP/TMPro_FontAssetCreatorWindow.cs Line: 323)
+
+Asset Pipeline Refresh (id=a5d1ac7e9b94145ea8529826385c713a): Total: 0.065 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 5d1c49f3133214c4a8d6c30aac0980ee - Path: Assets/TextMesh Pro/Glyph Report.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'f58d396ed1b66b01f83b544bce6c9e0f') in 0.015917292 seconds
+Importing 'GUID: 77558fb8cabba46d28095ef0e397fa90 - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 77558fb8cabba46d28095ef0e397fa90' -> (Import Result ID: 'fa7805ebd2a202647712c662d81de117') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=e2272fcb1c5e03e1c6e347948b9d1778 DependenciesID=9f61923b3e19a7761dc88d5523ed9b81 StaticDependenciesID=384a3eb327561540223bb41f41cbe3b9 
+Refreshing native plugins compatible for Editor in 2.18 ms, found 3 plugins.
+Asset Pipeline Refresh (id=cd756c461e55845ee8b0f51130f5f5db): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '403c6c1a416723476486c6c76ad86f7f') in 0.000 seconds [static dependencies only]. Details - ImportResultOutputID=43b4ee972f78e910f47a00fe3c96f65c DependenciesID=1aedbe56ae62f321fe459982db2fa012 StaticDependenciesID=e9a43e809c5953780a851aff477bfce8 
+Importing 'GUID: 77558fb8cabba46d28095ef0e397fa90 - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 77558fb8cabba46d28095ef0e397fa90' -> (Import Result ID: '7f4a88ba85641dcf403a442ecb9b643a') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=743d6c27535ae006fb24fbc8e7f95a90 DependenciesID=28733f66bb48b137580051d21b988895 StaticDependenciesID=022b205303daa2d5fce4a5d0085b8e58 
+Importing 'GUID: 1cc13052b3af0471688186ac20991bfd - Path: Assets/Fonts/ITC Korinna Bold SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 1cc13052b3af0471688186ac20991bfd' -> (Import Result ID: '52b3ec5a970dae7f6a91baefab44f6fa') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=debc4dbec2d74ee79630dcdaa5b6dc5d DependenciesID=b4c7825a93971174d6a1de7988c17f5d StaticDependenciesID=0e6dc8e23c274f687e101bacecd62f23 
+Asset Pipeline Refresh (id=4ad7924af1a3c48b9b06320ac00bf96b): Total: 0.033 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 77558fb8cabba46d28095ef0e397fa90 - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 77558fb8cabba46d28095ef0e397fa90' -> (Import Result ID: '7f4a88ba85641dcf403a442ecb9b643a') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=743d6c27535ae006fb24fbc8e7f95a90 DependenciesID=28733f66bb48b137580051d21b988895 StaticDependenciesID=022b205303daa2d5fce4a5d0085b8e58 
+Asset Pipeline Refresh (id=a5d1075f1c2ca429d948b3753abc1b77): Total: 0.011 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=57de26e1ce58b4b4a8c6d9e433b21978): Total: 0.061 seconds - Initiated by RefreshV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 77558fb8cabba46d28095ef0e397fa90 - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular SDF.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '25b268886fd786bdb7f55705c60d2604') in 0.018534708 seconds
+[Worker1] Imported GUID: 1cc13052b3af0471688186ac20991bfd - Path: Assets/Fonts/ITC Korinna Bold SDF.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '69a386558adfeb39df6123c2cea29359') in 0.048891042 seconds
+2026-09-13 21:34:33.938 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc09c6e0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=cad19a49b0b0e459692878b716fe2af7): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=9a3e77ab8a60d4deba4490713ffa211a): Total: 0.131 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '11265719b3d4f868c480a4fb1fa117de') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=334c08a30945caeb6785cca2e2ea27c8 DependenciesID=b72f5a6ea265352d7c74249d2351ef99 StaticDependenciesID=eb0b00eac5e7b7e0149264082ce8e964 
+Asset Pipeline Refresh (id=34d3f3a489dd145f381a3dad7071bfd2): Total: 0.045 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '3c3b66c68791647a08d85c80c4848c66') in 0.022119083 seconds
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '8f131885c00662e355d488bc25e6ba0d') in 0.017117167 seconds
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x45a8f7000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.004977 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            35.640 ms
+	Integration:            66.292 ms
+	Integration of assets:  0.033 ms
+	Thread Wait Time:       0.000 ms
+	Total Operation Time:   101.965 ms
+Thread 0x48a9ff000 may have been prematurely finalized
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.344 ms
+	Integration:            40.110 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   42.462 ms
+Unloading 42 unused Assets / (0.6 MB). Loaded Objects now: 10920.
+Memory consumption went from 406.5 MB to 405.8 MB.
+Total: 63.476708 ms (FindLiveObjects: 0.372292 ms CreateObjectMapping: 0.098875 ms MarkObjects: 62.787833 ms  DeleteObjects: 0.094708 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '4117c4de2bb2cf8964a132e7dd85cbad') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=75ed4a89d88111daae896c235c697dfd DependenciesID=f0b46ae61cb629497cae15af4acfc498 StaticDependenciesID=bdc50c414f99aea9943384242de89ec4 
+Asset Pipeline Refresh (id=e23410c897ccd443693d9a13616a99ff): Total: 0.065 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker1] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '91401c35ea48194a304793dab714b929') in 0.049664333 seconds
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '18c3c258fb33a6c07382638130d84a97') in 0.019880708 seconds
+Thread 0x45c47b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002914 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.439 ms
+	Integration:            56.807 ms
+	Integration of assets:  0.024 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   59.275 ms
+Thread 0x45c47b000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.324 ms
+	Integration:            38.025 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   40.358 ms
+Unloading 26 unused Assets / (0.7 MB). Loaded Objects now: 10924.
+Memory consumption went from 427.5 MB to 426.8 MB.
+Total: 65.076125 ms (FindLiveObjects: 0.396666 ms CreateObjectMapping: 0.101792 ms MarkObjects: 64.375667 ms  DeleteObjects: 0.057791 ms)
+
+Thread 0x45a8f7000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002451 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.699 ms
+	Integration:            42.359 ms
+	Integration of assets:  0.025 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   44.087 ms
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '9481ec5589403804d4272a6ca9a7f67a') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=90895960861073366dffe91240c7cf3d DependenciesID=25599317365bc92979bef4c2af6aca4e StaticDependenciesID=86254014a4297822c9ef6d0a6d2c2fc5 
+Asset Pipeline Refresh (id=3f5747375240a496f8170fc4a40b0731): Total: 0.027 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Thread 0x4965fb000 may have been prematurely finalized
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.856 ms
+	Integration:            35.999 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   37.863 ms
+Unloading 26 unused Assets / (0.7 MB). Loaded Objects now: 10929.
+Memory consumption went from 427.2 MB to 426.4 MB.
+Total: 62.812709 ms (FindLiveObjects: 0.362667 ms CreateObjectMapping: 0.088041 ms MarkObjects: 62.188250 ms  DeleteObjects: 0.043000 ms)
+
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: 'd900b090d2791d4205d464f7f983d279') in 0.026258125 seconds
+[Worker1] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '06443bbd28f1a9547a02835468e67ce8') in 0.052765959 seconds
+Asset Pipeline Refresh (id=340537fedeee34757a4ea01c2e478128): Total: 0.212 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Thread 0x45a8f7000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003518 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.294 ms
+	Integration:            55.921 ms
+	Integration of assets:  0.026 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   59.247 ms
+Thread 0x47c7b3000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.265 ms
+	Integration:            40.545 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   42.818 ms
+Unloading 11 unused Assets / (0.7 MB). Loaded Objects now: 10934.
+Memory consumption went from 428.0 MB to 427.3 MB.
+Total: 70.465708 ms (FindLiveObjects: 0.403833 ms CreateObjectMapping: 0.101667 ms MarkObjects: 69.753875 ms  DeleteObjects: 0.078542 ms)
+
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '2b5f039537d17297ff121dc5f84778e6') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e3a2ac5e54e4ecf7baff2cec7f5ddb3f DependenciesID=8df815e1b377c6c7693b8782071ad201 StaticDependenciesID=023e7e31ede55b80b288c28d896e8b92 
+Asset Pipeline Refresh (id=a1231e140d1f04b63bb1c4d97b028996): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker1] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '45b6aed0be0bf5f5afc52f3adac8805b') in 0.020512334 seconds
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'e8933fb4dd5a2f4ca27b6900576f0332') in 0.016588833 seconds
+Thread 0x45af5b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002464 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.126 ms
+	Integration:            51.801 ms
+	Integration of assets:  0.026 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   53.957 ms
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: 'c6bbc3961a4e1698c656869cde465606') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dfad6953c4edbb1487af968cf1e6e825 DependenciesID=6b60897001a4e88bcd81106bb8ac5728 StaticDependenciesID=4b9949677431554bba2f59e795089ed3 
+Asset Pipeline Refresh (id=337ff50688dfa453ab1dce8eb6f4be38): Total: 0.025 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Thread 0x4965fb000 may have been prematurely finalized
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.953 ms
+	Integration:            38.928 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   40.889 ms
+Unloading 26 unused Assets / (0.7 MB). Loaded Objects now: 10939.
+Memory consumption went from 427.8 MB to 427.1 MB.
+Total: 68.192792 ms (FindLiveObjects: 0.383125 ms CreateObjectMapping: 0.109167 ms MarkObjects: 67.522875 ms  DeleteObjects: 0.043084 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '9f172a8dd4fda319be4bc6cd24161d49') in 0.014387 seconds
+[Worker1] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'f8abded776ee1ae4942ab91b750be255') in 0.021622792 seconds
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '66171520f30b14b24b57f185716e1beb') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e0d692b8c91f7895ece850896b38ebbd DependenciesID=f33cb4970620152f1cc2228be47e7442 StaticDependenciesID=8c5667c23935f05a8ac9152b2376ed75 
+Asset Pipeline Refresh (id=2594d018ca62848f98e01e026843984c): Total: 0.048 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '73b5a7b15cdcda4a2c6998b47949e22f') in 0.014683834 seconds
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: 'f0b73731b10298e37d4318c7b6590de2') in 0.018913292 seconds
+Asset Pipeline Refresh (id=942da0b8c8d0d4a9ea0f999d9d93d29c): Total: 0.042 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=f49909289f0174c7b8bb2ef3e84e8fa2): Total: 0.041 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Thread 0x45a8f7000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002705 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.062 ms
+	Integration:            51.724 ms
+	Integration of assets:  0.027 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   53.817 ms
+Thread 0x4965fb000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.273 ms
+	Integration:            41.351 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   43.632 ms
+Unloading 26 unused Assets / (0.7 MB). Loaded Objects now: 10944.
+Memory consumption went from 428.5 MB to 427.8 MB.
+Total: 70.006542 ms (FindLiveObjects: 0.390792 ms CreateObjectMapping: 0.105208 ms MarkObjects: 69.328833 ms  DeleteObjects: 0.046208 ms)
+
+Thread 0x45a8f7000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002449 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.746 ms
+	Integration:            42.226 ms
+	Integration of assets:  0.020 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   43.999 ms
+Thread 0x487d2f000 may have been prematurely finalized
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.419 ms
+	Integration:            41.672 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   44.099 ms
+Unloading 11 unused Assets / (0.7 MB). Loaded Objects now: 10949.
+Memory consumption went from 428.4 MB to 427.7 MB.
+Total: 73.065125 ms (FindLiveObjects: 0.413792 ms CreateObjectMapping: 0.119875 ms MarkObjects: 72.347375 ms  DeleteObjects: 0.047042 ms)
+
+Thread 0x45af5b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003242 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.337 ms
+	Integration:            41.555 ms
+	Integration of assets:  0.026 ms
+	Thread Wait Time:       0.003 ms
+	Total Operation Time:   43.920 ms
+Thread 0x47d293000 may have been prematurely finalized
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.824 ms
+	Integration:            40.725 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   42.556 ms
+Unloading 11 unused Assets / (0.7 MB). Loaded Objects now: 10954.
+Memory consumption went from 429.2 MB to 428.5 MB.
+Total: 75.595375 ms (FindLiveObjects: 0.389625 ms CreateObjectMapping: 0.092125 ms MarkObjects: 74.930667 ms  DeleteObjects: 0.048084 ms)
+
+Thread 0x45c47b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002481 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.129 ms
+	Integration:            49.071 ms
+	Integration of assets:  0.022 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   51.228 ms
+Thread 0x47c7b3000 may have been prematurely finalized
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.164 ms
+	Integration:            44.073 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   46.244 ms
+Unloading 11 unused Assets / (0.7 MB). Loaded Objects now: 10959.
+Memory consumption went from 429.5 MB to 428.8 MB.
+Total: 77.788834 ms (FindLiveObjects: 0.388042 ms CreateObjectMapping: 0.092083 ms MarkObjects: 77.122167 ms  DeleteObjects: 0.048125 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=00f80dc6a195e47bea5d1d061daca4bd): Total: 0.199 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Thread 0x45a8f7000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003802 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            37.414 ms
+	Integration:            112.460 ms
+	Integration of assets:  0.028 ms
+	Thread Wait Time:       -0.001 ms
+	Total Operation Time:   149.900 ms
+Thread 0x49530b000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.341 ms
+	Integration:            44.185 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   46.534 ms
+Unloading 11 unused Assets / (0.7 MB). Loaded Objects now: 10964.
+Memory consumption went from 429.3 MB to 428.6 MB.
+Total: 84.045584 ms (FindLiveObjects: 0.388958 ms CreateObjectMapping: 0.097583 ms MarkObjects: 83.351750 ms  DeleteObjects: 0.072417 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x45c47b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002532 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.920 ms
+	Integration:            41.501 ms
+	Integration of assets:  0.026 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   43.453 ms
+Thread 0x47c7b3000 may have been prematurely finalized
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.211 ms
+	Integration:            81.574 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   84.793 ms
+Unloading 11 unused Assets / (0.7 MB). Loaded Objects now: 10969.
+Memory consumption went from 429.4 MB to 428.8 MB.
+Total: 86.439166 ms (FindLiveObjects: 0.446666 ms CreateObjectMapping: 0.141417 ms MarkObjects: 85.595250 ms  DeleteObjects: 0.111709 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x45c47b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.004710 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            35.322 ms
+	Integration:            59.297 ms
+	Integration of assets:  0.036 ms
+	Thread Wait Time:       0.001 ms
+	Total Operation Time:   94.657 ms
+Thread 0x4800cb000 may have been prematurely finalized
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.071 ms
+	Integration:            61.143 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   63.220 ms
+Unloading 11 unused Assets / (0.7 MB). Loaded Objects now: 10974.
+Memory consumption went from 429.8 MB to 429.2 MB.
+Total: 84.763084 ms (FindLiveObjects: 0.385667 ms CreateObjectMapping: 0.098625 ms MarkObjects: 84.095542 ms  DeleteObjects: 0.042334 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=43d7fa221799248c5a6ab23fc3574682): Total: 0.210 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=66323df43844440c880b2b314bebfc40): Total: 0.090 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Thread 0x45c47b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003476 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            34.921 ms
+	Integration:            100.686 ms
+	Integration of assets:  0.032 ms
+	Thread Wait Time:       -0.001 ms
+	Total Operation Time:   135.637 ms
+Thread 0x49530b000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.126 ms
+	Integration:            82.986 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   85.119 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 10979.
+Memory consumption went from 430.0 MB to 429.4 MB.
+Total: 95.222833 ms (FindLiveObjects: 0.416542 ms CreateObjectMapping: 0.134959 ms MarkObjects: 94.426708 ms  DeleteObjects: 0.101667 ms)
+
+[Licensing::Client] Successfully resolved entitlement details

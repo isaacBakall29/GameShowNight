@@ -4337,3 +4337,531 @@ Memory consumption went from 250.0 MB to 246.6 MB.
 Total: 31.847125 ms (FindLiveObjects: 4.426667 ms CreateObjectMapping: 0.642833 ms MarkObjects: 26.283500 ms  DeleteObjects: 0.386083 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 3.54 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8318.
+Memory consumption went from 246.9 MB to 243.6 MB.
+Total: 24.610958 ms (FindLiveObjects: 0.610375 ms CreateObjectMapping: 0.149042 ms MarkObjects: 23.361291 ms  DeleteObjects: 0.367791 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 3.91 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8318.
+Memory consumption went from 243.9 MB to 240.5 MB.
+Total: 19.395583 ms (FindLiveObjects: 0.556125 ms CreateObjectMapping: 0.110625 ms MarkObjects: 18.284333 ms  DeleteObjects: 0.339875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 6.40 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8318.
+Memory consumption went from 241.0 MB to 237.6 MB.
+Total: 4.027709 ms (FindLiveObjects: 0.238167 ms CreateObjectMapping: 0.098083 ms MarkObjects: 3.417500 ms  DeleteObjects: 0.196959 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:15:13.526126Z
+  Time since last request: 4240.00884891599981 seconds.
+  importAddress: GUID: 67d327dc581664571a066d199357bee6 - Path: Assets/Fonts - Importer: PreviewImporter
+Importing 'GUID: 67d327dc581664571a066d199357bee6 - Path: Assets/Fonts - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 67d327dc581664571a066d199357bee6' -> (Import Result ID: '46740b5e898561b42af354e70d6d57bd') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=64e60c384b6e55754fc34d4e643e3780 DependenciesID=81606ed1f4a10e0f73776e97a801d679 StaticDependenciesID=4b3eac08fcabae007f12ed10353a415b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:15:14.50616Z
+  Time since last request: 0.962266917 seconds.
+  importAddress: GUID: 67d327dc581664571a066d199357bee6 - Path: Assets/Fonts - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 67d327dc581664571a066d199357bee6 - Path: Assets/Fonts - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 67d327dc581664571a066d199357bee6' -> (Import Result ID: 'fe4766747e70dc066621b20968cd61ae') in 0.039 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1deb81ab8e817f67548c843652e3519d DependenciesID=6d18b893d7f85e4a998d8e7699b87fc6 StaticDependenciesID=6df978d6f77398713c7c1a77f503629a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:15:20.156448Z
+  Time since last request: 5.602292041 seconds.
+  importAddress: GUID: 3bd2f8966d5d14034a6835b64c33d6cf - Path: Assets/Fonts/ITC Korinna Bold.otf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 3bd2f8966d5d14034a6835b64c33d6cf - Path: Assets/Fonts/ITC Korinna Bold.otf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 3bd2f8966d5d14034a6835b64c33d6cf' -> (Import Result ID: 'af4eb4f716e91ac2206b6d9a091164cc') in 0.023 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d08d8f9ab26157bacde4176aceaaeddf DependenciesID=8dad33337ff7ee01352a8b63dc26a53b StaticDependenciesID=e6f0ee0f6011076d6d7a1448c2ec4f08 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:15:20.853948Z
+  Time since last request: 0.666288542 seconds.
+  importAddress: GUID: 3bd2f8966d5d14034a6835b64c33d6cf - Path: Assets/Fonts/ITC Korinna Bold.otf - Importer: PreviewImporter
+Importing 'GUID: 3bd2f8966d5d14034a6835b64c33d6cf - Path: Assets/Fonts/ITC Korinna Bold.otf - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3bd2f8966d5d14034a6835b64c33d6cf' -> (Import Result ID: 'fd8952c4912cb101a36d2eaa0eb8d9d3') in 0.329 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1d7c3ebefef29a18f9e22f59659ca725 DependenciesID=7aee39ffb342627ae6960f6c5579b195 StaticDependenciesID=cf1b8eee663a4c6a88340745f2c7b47f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 244.7 MB to 241.3 MB.
+Total: 10.029834 ms (FindLiveObjects: 0.317292 ms CreateObjectMapping: 0.130459 ms MarkObjects: 9.146500 ms  DeleteObjects: 0.345917 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:15:50.566818Z
+  Time since last request: 29.375848417 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '8136c01151c71e2f740b746df884689c') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9779f8b81e5c1b246efe7534710265cc DependenciesID=e4c3ea397fa46d8fdadd290815862cc7 StaticDependenciesID=6b83bf6ded75757a553a595a6b42caa9 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:15:50.740824Z
+  Time since last request: 0.150027292 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: 'aa77f33155bc91cb4ba984b555a8e8f6') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9779f8b81e5c1b246efe7534710265cc DependenciesID=58756070095d7cfe3a4ea940df00c95d StaticDependenciesID=8f5abf64841404b5fe3774f5e889d61f 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:15:51.687662Z
+  Time since last request: 0.931242375 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '5428683c5337f7213871f33d0b397d34') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9779f8b81e5c1b246efe7534710265cc DependenciesID=92d060f15330a7c29707ba9117320a63 StaticDependenciesID=9157c6b9467f33f24647a4312f04dea3 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:15:52.660844Z
+  Time since last request: 0.960670542 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: 'f24b54e125a0539739242c5a2cbb7e50') in 0.042 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=185f9805ecd45dbfa533eecf1a1fb83e DependenciesID=4246dde2109effe8e90b86913bc8b4c5 StaticDependenciesID=c9d964afd1103474889a5e073264a7d1 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:20:02.566529Z
+  Time since last request: 249.85814049999999 seconds.
+  importAddress: GUID: 5a15e7fd73a7147db969e2adec526102 - Path: Assets/Fonts/ITC Korinna Bold.woff2 - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5a15e7fd73a7147db969e2adec526102 - Path: Assets/Fonts/ITC Korinna Bold.woff2 - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5a15e7fd73a7147db969e2adec526102' -> (Import Result ID: '6fa45483ccd7bcea20aef1e1afb9c987') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cf522e239e37386b2342566c336e7988 DependenciesID=7851d2be6ba13cacbcc0f81b81448211 StaticDependenciesID=aaca8be9d7ca1d3d13d6f2f9780eb740 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:20:02.588622Z
+  Time since last request: 0.007056 seconds.
+  importAddress: GUID: 5a15e7fd73a7147db969e2adec526102 - Path: Assets/Fonts/ITC Korinna Bold.woff2 - Importer: PreviewImporter
+Importing 'GUID: 5a15e7fd73a7147db969e2adec526102 - Path: Assets/Fonts/ITC Korinna Bold.woff2 - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 5a15e7fd73a7147db969e2adec526102' -> (Import Result ID: '75f6937b200517a09502009aa3f86b54') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2e84ce8d4d6cefebd7eabc214dac1afb DependenciesID=98341d265d4d0477df6bc761118ac1b3 StaticDependenciesID=d376224a3e40de676ad6d27413682c80 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:20:53.673483Z
+  Time since last request: 51.073173667 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '9184667a4210b94545826f539709ddc6') in 0.029 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5ca3a4805f6281f373f18ae2f80129d4 DependenciesID=9eca2a2f4a36fb388eb05b94ee86bac9 StaticDependenciesID=8ffde6a437edee06a83c3ba184d40be7 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:22:03.207521Z
+  Time since last request: 69.496851542 seconds.
+  importAddress: GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 60a80472670d240a89978e5245aa1791' -> (Import Result ID: '1ca6e301c7c067e061bcf278b252bee2') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fb4935b69f80f58600240737cc3bb09e DependenciesID=185a32e54a22585f8e7d477295a81a9d StaticDependenciesID=1481f34a57534885c8ee7be423d5ea2a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:22:13.46861Z
+  Time since last request: 10.244220292 seconds.
+  importAddress: GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1' -> (Import Result ID: 'fd4d5b85a10b63713c16af2cfee3d72a') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d04e6e4827c83bc07a2aef50630f29b4 DependenciesID=4f6d5e94761f9cdc9e9f7424a138b5f7 StaticDependenciesID=8c48ec230a9aa3225610a307e9b19b6b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:22:43.158292Z
+  Time since last request: 29.668388917 seconds.
+  importAddress: GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: PreviewImporter
+Importing 'GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 3b51b5f80e0024dbba9a2c28e98fe9f1' -> (Import Result ID: '61c5377185804ec5b074d33a48d26ff9') in 0.027 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=43019025c36cc18960c31fe855c9cad0 DependenciesID=0d29e873581eea55f27635b086cd1c19 StaticDependenciesID=1b9f2eaf60be9678685a00239d7b7c8b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 4.80 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 34 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 242.8 MB to 239.4 MB.
+Total: 24.164625 ms (FindLiveObjects: 1.425959 ms CreateObjectMapping: 0.233250 ms MarkObjects: 21.771541 ms  DeleteObjects: 0.478583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:24:22.95047Z
+  Time since last request: 99.757766584 seconds.
+  importAddress: GUID: 38df5a34fe81a443aa91fdcaee3da17c - Path: Assets/Fonts/itc-korinna-bold.zip - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 38df5a34fe81a443aa91fdcaee3da17c - Path: Assets/Fonts/itc-korinna-bold.zip - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 38df5a34fe81a443aa91fdcaee3da17c' -> (Import Result ID: 'fb7bb2b71a8ea5d55d1367bfe93f5ae0') in 0.005 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dfa18f4a46a359391012a8eead28d6a2 DependenciesID=c5399c3be829e20afce7c90df75b345f StaticDependenciesID=f8ae1f47986ee325997d090d29ca644b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:24:39.19447Z
+  Time since last request: 16.21874825 seconds.
+  importAddress: GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/ITC Korinna Bold.ttf - Importer: PreviewImporter
+Importing 'GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/ITC Korinna Bold.ttf - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 60a80472670d240a89978e5245aa1791' -> (Import Result ID: 'bc7feb1b8a2177740e2ef2cee92651e0') in 0.022 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b113f40e83d94d4ce36c36d4e28b6512 DependenciesID=5ec54635b02111a7bc93b9f6f1227dde StaticDependenciesID=b3afe64fd46435019bcbe88e0bb14eb5 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:25:22.142048Z
+  Time since last request: 42.917847959 seconds.
+  importAddress: GUID: 38df5a34fe81a443aa91fdcaee3da17c - Path: Assets/Fonts/itc-korinna-bold.zip - Importer: PreviewImporter
+Importing 'GUID: 38df5a34fe81a443aa91fdcaee3da17c - Path: Assets/Fonts/itc-korinna-bold.zip - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 38df5a34fe81a443aa91fdcaee3da17c' -> (Import Result ID: '25bc7c5bd494a3ed917007404742c27e') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=27de9d6d34fdd3df33c1d33d47531c4e DependenciesID=399e909ec56dc949023d14fb27e80cea StaticDependenciesID=da6cc313f642dec7bdd4dfff7b1ea173 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 239.8 MB to 236.5 MB.
+Total: 16.639042 ms (FindLiveObjects: 0.583166 ms CreateObjectMapping: 0.128792 ms MarkObjects: 15.293291 ms  DeleteObjects: 0.514417 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:26:43.870175Z
+  Time since last request: 81.718884917 seconds.
+  importAddress: GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 60a80472670d240a89978e5245aa1791 - Path: Assets/Fonts/ITC Korinna Bold.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 60a80472670d240a89978e5245aa1791' -> (Import Result ID: '2607b48a71bcfa5d60aac318bf820328') in 0.003 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1785e5a5cb37c3b8a79096b7c1986ee7 DependenciesID=1a671a747de7e09ce3e0c125941784f2 StaticDependenciesID=1481f34a57534885c8ee7be423d5ea2a 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:27:48.088756Z
+  Time since last request: 64.205497083 seconds.
+  importAddress: GUID: 5d1c49f3133214c4a8d6c30aac0980ee - Path: Assets/TextMesh Pro/Glyph Report.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5d1c49f3133214c4a8d6c30aac0980ee - Path: Assets/TextMesh Pro/Glyph Report.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5d1c49f3133214c4a8d6c30aac0980ee' -> (Import Result ID: '9555eab4ceac5d7ae054dda47d257eee') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2734618e0d2545607d49445d5a11a2e4 DependenciesID=e61f09f085415fc745a03180c1fd5aff StaticDependenciesID=67eb34d3977507b7de40ed38f6401fa0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:28:36.296505Z
+  Time since last request: 48.196388917 seconds.
+  importAddress: GUID: 1cc13052b3af0471688186ac20991bfd - Path: Assets/Fonts/ITC Korinna Bold SDF.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 1cc13052b3af0471688186ac20991bfd - Path: Assets/Fonts/ITC Korinna Bold SDF.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 1cc13052b3af0471688186ac20991bfd' -> (Import Result ID: 'ddb0a1af9a3c3fed6b0975705a31931c') in 0.032 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=963ebc381ab6e371c547390fe7898ac9 DependenciesID=e318990f4e61e958f05fed9141550783 StaticDependenciesID=66fbabf03c79c0a25cbfd4115bc73e5e 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:28:52.648309Z
+  Time since last request: 16.310435834 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '6075975963df1fdb6544d64e65369cc8') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9779f8b81e5c1b246efe7534710265cc DependenciesID=f73345d3c27334d34f8bead527d47830 StaticDependenciesID=3d415b11254f19a8dc313b0907dfa07b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:28:53.623367Z
+  Time since last request: 0.955904459 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '4ca1e5cd1b315cffdc184d15b9b0b179') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=752b33034a56c180a068752379d5ba29 DependenciesID=7225ba69e9d641af10d46a0916c80368 StaticDependenciesID=eefd166be5500776658804f6c29c8e91 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 3.77 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 237.1 MB to 233.7 MB.
+Total: 26.318250 ms (FindLiveObjects: 0.562000 ms CreateObjectMapping: 0.124500 ms MarkObjects: 25.197792 ms  DeleteObjects: 0.322416 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:32:21.92074Z
+  Time since last request: 208.28325404200001 seconds.
+  importAddress: GUID: da2fac6799677429c8e763bb405bdf11 - Path: Assets/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: da2fac6799677429c8e763bb405bdf11 - Path: Assets/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: da2fac6799677429c8e763bb405bdf11' -> (Import Result ID: '42994c9ec8b14a103811fc626c6e83f8') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ccecd18d704de2c2e4beafea8e81dea2 DependenciesID=2e56de26327d2ffddd1246aba56e41e8 StaticDependenciesID=4e3ba27f027652aab9c739e58922ae42 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:32:25.419363Z
+  Time since last request: 3.469310334 seconds.
+  importAddress: GUID: f94288ecf824a41d98b8e54128d9740d - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: f94288ecf824a41d98b8e54128d9740d - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: f94288ecf824a41d98b8e54128d9740d' -> (Import Result ID: '575ccb280839435e3ba39404b8f4e64d') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=71358a779b4ebd11769fb632506ece3c DependenciesID=1e8769914de0021e9790429f731cfa01 StaticDependenciesID=402ea6a4f48b79ee7ecdcd3f2861cd58 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:32:56.536302Z
+  Time since last request: 31.094255166 seconds.
+  importAddress: GUID: da2fac6799677429c8e763bb405bdf11 - Path: Assets/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: PreviewImporter
+Importing 'GUID: da2fac6799677429c8e763bb405bdf11 - Path: Assets/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: da2fac6799677429c8e763bb405bdf11' -> (Import Result ID: '5104f53ab5400f0fc0fa55c952506e87') in 0.016 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a58e8b7c32e75dd0c4afc2db77eb7c63 DependenciesID=9c1296b264f5a3e892b0277254689d11 StaticDependenciesID=7112679a5af6d180e1b4ec1da29d60ec 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:33:02.646564Z
+  Time since last request: 6.085236958 seconds.
+  importAddress: GUID: f94288ecf824a41d98b8e54128d9740d - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: PreviewImporter
+Importing 'GUID: f94288ecf824a41d98b8e54128d9740d - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular.ttf - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: f94288ecf824a41d98b8e54128d9740d' -> (Import Result ID: 'b108fe5357e0d50303cd7cfcb6e89a1d') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8b0b0c757251ab1631aa8670d550d5cf DependenciesID=7d02808557f69796d14f7cc43366868c StaticDependenciesID=4735579b74de884acbe04dee580f622b 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:34:22.439095Z
+  Time since last request: 79.777040375 seconds.
+  importAddress: GUID: 5d1c49f3133214c4a8d6c30aac0980ee - Path: Assets/TextMesh Pro/Glyph Report.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 5d1c49f3133214c4a8d6c30aac0980ee - Path: Assets/TextMesh Pro/Glyph Report.txt - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 5d1c49f3133214c4a8d6c30aac0980ee' -> (Import Result ID: 'f58d396ed1b66b01f83b544bce6c9e0f') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4200f45bf9da7fd1524cf6dd4f6454bd DependenciesID=8c32d149999681ef5e3207cec4f1d5c7 StaticDependenciesID=442a113265703ba693d0343bfe3955de 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:34:33.298684Z
+  Time since last request: 10.843574875 seconds.
+  importAddress: GUID: 77558fb8cabba46d28095ef0e397fa90 - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular SDF.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 77558fb8cabba46d28095ef0e397fa90 - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular SDF.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 77558fb8cabba46d28095ef0e397fa90' -> (Import Result ID: '25b268886fd786bdb7f55705c60d2604') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e9fd1f1857bb6b2cfb3c35a2da47f88a DependenciesID=99963c6d6ec8da316f27f3437206a4d4 StaticDependenciesID=76a3c6685b4d90d826feecef041b6db0 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:34:55.061074Z
+  Time since last request: 21.744036375 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '3c3b66c68791647a08d85c80c4848c66') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9779f8b81e5c1b246efe7534710265cc DependenciesID=4f51619f580a8b8f6050a31862a79ece StaticDependenciesID=3307d270a1ba9d73907db0bb54b37c2d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:34:56.036376Z
+  Time since last request: 0.953026375 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '8f131885c00662e355d488bc25e6ba0d') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cb4ee57f3349e66ed52ea74e7561f586 DependenciesID=a94f3d408c710d287963cbc0502a52d8 StaticDependenciesID=959f33be5792f71aaeea6ef1f5db4ef6 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 234.4 MB to 231.1 MB.
+Total: 24.943583 ms (FindLiveObjects: 0.661000 ms CreateObjectMapping: 0.124792 ms MarkObjects: 23.604125 ms  DeleteObjects: 0.427667 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:36:49.296792Z
+  Time since last request: 113.24466475 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '18c3c258fb33a6c07382638130d84a97') in 0.011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a6194559a98ffba127c4a3af415e9d39 DependenciesID=bb67a9f726d9874f5800e9a68f8dfb80 StaticDependenciesID=f211693e207e5a28757df89b16b6b705 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 4.59 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 231.5 MB to 228.2 MB.
+Total: 13.853042 ms (FindLiveObjects: 0.275959 ms CreateObjectMapping: 0.242084 ms MarkObjects: 12.510333 ms  DeleteObjects: 0.651916 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:37:00.093875Z
+  Time since last request: 10.776454 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: 'd900b090d2791d4205d464f7f983d279') in 0.018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9779f8b81e5c1b246efe7534710265cc DependenciesID=82a2f450cba4157eab4b7b1d7b3b4653 StaticDependenciesID=25ddb0bcb4a4ce7524f962e4279da941 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 2.69 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 228.6 MB to 225.2 MB.
+Total: 4.882666 ms (FindLiveObjects: 0.228416 ms CreateObjectMapping: 0.108875 ms MarkObjects: 4.284375 ms  DeleteObjects: 0.191208 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 225.7 MB to 222.3 MB.
+Total: 8.031958 ms (FindLiveObjects: 0.354417 ms CreateObjectMapping: 0.085416 ms MarkObjects: 7.232667 ms  DeleteObjects: 0.268584 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:37:30.977132Z
+  Time since last request: 30.855902125 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: 'e8933fb4dd5a2f4ca27b6900576f0332') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3b2ccecc4885773bb1082aefa5929783 DependenciesID=ab6009a28d9046b39cb89529a5b35565 StaticDependenciesID=8e3945bc88d2a29d711fade89fd755b3 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 222.9 MB to 219.5 MB.
+Total: 5.133542 ms (FindLiveObjects: 0.227458 ms CreateObjectMapping: 0.076542 ms MarkObjects: 4.510583 ms  DeleteObjects: 0.247834 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:37:38.259081Z
+  Time since last request: 7.264523375 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '9f172a8dd4fda319be4bc6cd24161d49') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9779f8b81e5c1b246efe7534710265cc DependenciesID=61f6a290e9a374a5224a59bc9e9b9449 StaticDependenciesID=cbf5a36c4919d766b865bf2441dccd28 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 219.9 MB to 216.5 MB.
+Total: 5.076917 ms (FindLiveObjects: 0.304625 ms CreateObjectMapping: 0.150125 ms MarkObjects: 4.352959 ms  DeleteObjects: 0.200792 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:37:40.924971Z
+  Time since last request: 2.650622167 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter' with importer (PreviewImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '73b5a7b15cdcda4a2c6998b47949e22f') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9779f8b81e5c1b246efe7534710265cc DependenciesID=343161cd6e38b7f7f76c6f6427a3d7a7 StaticDependenciesID=2a8566ae01eb2c46c31417aa8db461bc 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time of request: 2026-09-13T19:37:41.792993Z
+  Time since last request: 0.852503 seconds.
+  importAddress: GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B' with importer (ScriptedImporter : UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: 'f0b73731b10298e37d4318c7b6590de2') in 0.010 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=722b375bd094687b43c9a3cc3d052bc3 DependenciesID=ba36ec220b5b7a19d41ad8f9c4012900 StaticDependenciesID=a9c9a8af4e81bf54a72ec1393ce74f8d 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 8.06 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 217.2 MB to 213.8 MB.
+Total: 21.070958 ms (FindLiveObjects: 0.587667 ms CreateObjectMapping: 0.111083 ms MarkObjects: 19.924500 ms  DeleteObjects: 0.336709 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+AcceleratorClientConnectionCallback - disconnected - :0
+WARNING: Shader Unsupported: 'Universal Render Pipeline/VR/SpatialMapping/Wireframe' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Refreshing native plugins compatible for Editor in 4.19 ms, found 3 plugins.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (3.4 MB). Loaded Objects now: 8460.
+Memory consumption went from 214.2 MB to 210.8 MB.
+Total: 26.717208 ms (FindLiveObjects: 1.102458 ms CreateObjectMapping: 0.189917 ms MarkObjects: 24.927625 ms  DeleteObjects: 0.315584 ms)
+
+Prepare: number of updated asset objects reloaded= 0
