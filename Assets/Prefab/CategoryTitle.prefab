@@ -151,5 +151,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CategoryReader
   jsonFile: {fileID: 4900000, guid: 54b3c3c7b2f3340aabbc55a739e45d86, type: 3}
-  questionText: {fileID: 4076782235865906232}
+  categoryText: {fileID: 0}
   categoryIndex: 0

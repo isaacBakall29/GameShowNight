@@ -1,0 +1,9 @@
+/Users/isaac/UnityProjects/GameShowNight/Temp/bin/Debug/Unity.2D.Welcome.deps.json
+/Users/isaac/UnityProjects/GameShowNight/Temp/bin/Debug/Unity.2D.Welcome.dll
+/Users/isaac/UnityProjects/GameShowNight/Temp/bin/Debug/Unity.2D.Welcome.pdb
+/Users/isaac/UnityProjects/GameShowNight/Temp/obj/Unity.2D.Welcome/Unity.2D.Welcome.csproj.AssemblyReference.cache
+/Users/isaac/UnityProjects/GameShowNight/Temp/obj/Unity.2D.Welcome/Unity.2D.Welcome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaac/UnityProjects/GameShowNight/Temp/obj/Unity.2D.Welcome/Unity.2D.Welcome.csproj.CoreCompileInputs.cache
+/Users/isaac/UnityProjects/GameShowNight/Temp/obj/Unity.2D.Welcome/Unity.2D.Welcome.sourcelink.json
+/Users/isaac/UnityProjects/GameShowNight/Temp/obj/Unity.2D.Welcome/Unity.2D.Welcome.dll
+/Users/isaac/UnityProjects/GameShowNight/Temp/obj/Unity.2D.Welcome/Unity.2D.Welcome.pdb

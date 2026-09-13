@@ -53,13 +53,14 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.7.0a4/Unity.app/Contents/Resources/Scripting/BCLExtensions/TargetingPacks/netstandard2.1/analyzers/dotnet/roslyn4.4/cs/System.Text.Json.SourceGeneration.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/Questions.cs" />
+    <Compile Include="Assets/Scripts/JSONReader.cs" />
     <Compile Include="Assets/Scripts/Categories.cs" />
     <Compile Include="Assets/Scripts/CategoryReader.cs" />
-    <Compile Include="Assets/Scripts/OnClickQuestion.cs" />
+    <Compile Include="Assets/Scripts/Controllers/QuestionController.cs" />
+    <Compile Include="Assets/Scripts/Input.cs" />
     <Compile Include="Assets/Scripts/Category.cs" />
-    <Compile Include="Assets/Scripts/Question.cs" />
-    <Compile Include="Assets/Scripts/JsonReader.cs" />
+    <Compile Include="Assets/Scripts/Controllers/RemoveQuestionController.cs" />
+    <Compile Include="Assets/Scripts/Controllers/AnswerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />

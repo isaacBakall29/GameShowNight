@@ -2,27 +2,31 @@
     "questions":
     [
         {
+            "id": "category1_100",
             "category": "category1",
             "points": 100,
-            "answer": "Vad är huvudstaden i Sverige?",
+            "answer": "Vad är huvudstaden i Sverige",
             "question": "Stockholm är huvudstaden",
             "used": false
         },
         {
+            "id": "category1_200",
             "category": "category1",        
             "points": 200,
-            "answer": "Vad är huvudstaden i Sverige?",
-            "question": "oslo är huvudstaden",
+            "answer": "asdasd",
+            "question": "oslo sssssssssssssär huvudstaden",
             "used": false
         },
         {
+            "id": "category1_300",
             "category": "category1",
             "points": 300,
-            "answer": "Vad är huvudstaden i Sverige?",
-            "question": "Stockholm är huvudstaden",
+            "answer": "Vad är huvudstaaden i Sverige?",
+            "question": "Stockholm ära huvudstaden",
             "used": false
         },
         {
+            "id": "category1_400",
             "category": "category1",
             "points": 400,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -30,6 +34,7 @@
             "used": false
         },
         {
+            "id": "category1_500",
             "category": "category1",    
             "points": 500,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -42,13 +47,15 @@
 
 
         {
+            "id": "category2_100",
             "category": "category2",
             "points": 100,
-            "answer": "Vad är huvudstaden i Sverige?",
-            "question": "oslo är huvudstaden",
+            "answer": "testty",
+            "question": "asd",
             "used": false
         },
         {
+            "id": "category2_200",
             "category": "category2",
             "points": 200,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -56,6 +63,7 @@
             "used": false
         },
         {
+            "id": "category2_300",
             "category": "category2",
             "points": 300,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -63,6 +71,7 @@
             "used": false
         },
                 {
+            "id": "category2_400",
             "category": "category2",
             "points": 400,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -70,6 +79,7 @@
             "used": false
         },
                 {
+            "id": "category2_500",
             "category": "category2",
             "points": 500,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -79,6 +89,7 @@
 
 
         {
+            "id": "category3_100",
             "category": "category3",
             "points": 100,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -86,6 +97,7 @@
             "used": false
         },
         {
+            "id": "category3_200",
             "category": "category3",
             "points": 200,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -93,6 +105,7 @@
             "used": false
         },
         {
+            "id": "category3_300",
             "category": "category3",
             "points": 300,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -100,6 +113,7 @@
             "used": false
         },
         {
+            "id": "category3_400",
             "category": "category3",
             "points": 400,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -107,6 +121,7 @@
             "used": false
         },
         {
+            "id": "category3_500",
             "category": "category3",
             "points": 500,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -116,6 +131,7 @@
 
 
         {
+            "id": "category4_100",
             "category": "category4",
             "points": 100,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -123,6 +139,7 @@
             "used": false
         },
         {
+            "id": "category4_200",
             "category": "category4",
             "points": 200,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -130,6 +147,7 @@
             "used": false
         },
         {
+            "id": "category4_300",
             "category": "category4",
             "points": 300,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -137,6 +155,7 @@
             "used": false
         },
                 {
+            "id": "category4_400",
             "category": "category4",
             "points": 400,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -144,6 +163,7 @@
             "used": false
         },
                 {
+            "id": "category4_500",
             "category": "category4",
             "points": 500,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -153,6 +173,7 @@
 
 
         {
+            "id": "category5_100",
             "category": "category5",
             "points": 100,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -160,6 +181,7 @@
             "used": false
         },
         {
+            "id": "category5_200",
             "category": "category5",
             "points": 200,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -167,6 +189,7 @@
             "used": false
         },
         {
+            "id": "category5_300",
             "category": "category5",
             "points": 300,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -174,6 +197,7 @@
             "used": false
         },
                 {
+            "id": "category5_400",
             "category": "category5",
             "points": 400,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -181,6 +205,7 @@
             "used": false
         },
                 {
+            "id": "category5_500",
             "category": "category5",
             "points": 500,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -190,6 +215,7 @@
 
 
         {
+            "id": "category6_100",
             "category": "category6",
             "points": 100,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -197,6 +223,7 @@
             "used": false
         },
         {
+            "id": "category6_200",
             "category": "category6",
             "points": 200,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -204,6 +231,7 @@
             "used": false
         },
         {
+            "id": "category6_300",
             "category": "category6",
             "points": 300,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -211,6 +239,7 @@
             "used": false
         },
                 {
+            "id": "category6_400",
             "category": "category6",
             "points": 400,
             "answer": "Vad är huvudstaden i Sverige?",
@@ -218,6 +247,7 @@
             "used": false
         },
                 {
+            "id": "category6_500",
             "category": "category6",
             "points": 500,
             "answer": "Vad är huvudstaden i Sverige?",

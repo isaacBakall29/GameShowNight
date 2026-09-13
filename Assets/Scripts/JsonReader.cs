@@ -1,27 +1,33 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
-public class JsonReader : MonoBehaviour
+public class JSONReader : MonoBehaviour
 {
-    public TextAsset jsonFile;
-    public TMP_Text questionText;
-    public int questionIndex;
-
-    [SerializeField] private GameObject questionShow;
-
-
-    void Question()
+    public TextAsset textJSON;
+    [System.Serializable]
+    public class Question
     {
-        Questions questionsInJson = JsonUtility.FromJson<Questions>(jsonFile.text);
+        public string id;
+        public string category;
+        public int points;
+        public string answer;
+        public string question;
+        public bool used;
+    } 
 
-        if (questionsInJson.questions.Length > 0)
-        {
-            questionText.text = questionsInJson.questions[questionIndex].question;
-        }
+    [System.Serializable]
+    public class QuestionList
+    {
+        public Question[] questions;
     }
 
-    private void Start()
+
+
+    public QuestionList myQuestionList = new QuestionList();
+
+    void Start()
     {
-        Question();
+        myQuestionList = JsonUtility.FromJson<QuestionList>(textJSON.text);
     }
 }
