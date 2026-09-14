@@ -8052,3 +8052,515 @@ Memory consumption went from 430.0 MB to 429.4 MB.
 Total: 95.222833 ms (FindLiveObjects: 0.416542 ms CreateObjectMapping: 0.134959 ms MarkObjects: 94.426708 ms  DeleteObjects: 0.101667 ms)
 
 [Licensing::Client] Successfully resolved entitlement details
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/b1e31746-d8d5-4dd1-b346-428c91bb6578", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=1620cd1d92b0241729cb473dbbe078b3): Total: 0.202 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "KJjQFms1"... (expires: 2026-09-13T21:56:45Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received 'b1e31746-d8d5-4dd1-b346-428c91bb6578'.
+Asset Pipeline Refresh (id=c2dd74a22d2704c4b8f2dcbf06f77273): Total: 0.111 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=ee62184038ddd49899fb157627b7c926): Total: 0.090 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=1dd83416fb6f043678f22f7991824fd7): Total: 0.094 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab' with importer (PrefabImporter)
+Imported 'GUID: 134f4e2a0b3c94d41b6d7ecaef984b51' -> (Import Result ID: '04d4ee76c9c5ec68716e0640645ca1cc') in 0.001 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f4ba25d6be6c2a14e50abce8b5296073 DependenciesID=a2005bce2847eb85561bdaac6597458b StaticDependenciesID=27b1913416a302a57401961d4477bf1a 
+Asset Pipeline Refresh (id=93577e41c31db44b893aa8364eade983): Total: 0.068 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: PreviewImporter -> (Import Result ID: '43c365f95ec3299a3c55f1606c763925') in 0.033322625 seconds
+Asset Pipeline Refresh (id=0fd5a361cf1ce467b941e9e72ab5000e): Total: 0.044 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=2a3afa1ad8df446c5913820779cfc738): Total: 0.044 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: 134f4e2a0b3c94d41b6d7ecaef984b51 - Path: Assets/Prefab/CategoryTitle.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '3df28b494e9ffbdc48c1aa44c967ed3a') in 0.018650375 seconds
+Thread 0x4800cb000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.005730 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            34.599 ms
+	Integration:            110.978 ms
+	Integration of assets:  0.035 ms
+	Thread Wait Time:       0.001 ms
+	Total Operation Time:   145.613 ms
+Thread 0x495c93000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.231 ms
+	Integration:            51.697 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   53.936 ms
+Unloading 26 unused Assets / (0.7 MB). Loaded Objects now: 10984.
+Memory consumption went from 430.4 MB to 429.7 MB.
+Total: 93.667083 ms (FindLiveObjects: 0.387125 ms CreateObjectMapping: 0.115542 ms MarkObjects: 92.957666 ms  DeleteObjects: 0.067083 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=db4d6aab673a047c9a3a804aefdf0710): Total: 0.052 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=8111a48bcf41040e39c9bcea9deb8842): Total: 0.122 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=e5a9c023b217444b3ac2f7b18db38c21): Total: 0.093 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=d010ea472f3324e6d8e9e7db6705f574): Total: 0.088 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: e02a493624edc416d80c6007e1a1a982 - Path: Assets/Scenes/Game.unity - Importer: PreviewImporter -> (Import Result ID: 'b75aecd6605656277fe4de18399793d3') in 0.013552041 seconds
+2026-09-13 22:12:21.878 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc0ac460 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '403c6c1a416723476486c6c76ad86f7f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=43b4ee972f78e910f47a00fe3c96f65c DependenciesID=1aedbe56ae62f321fe459982db2fa012 StaticDependenciesID=e9a43e809c5953780a851aff477bfce8 
+Importing 'GUID: 77558fb8cabba46d28095ef0e397fa90 - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular SDF.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 77558fb8cabba46d28095ef0e397fa90' -> (Import Result ID: '8519985b3430580169a0d6718799202c') in 0.002 seconds [static dependencies only]. Details - ImportResultOutputID=743d6c27535ae006fb24fbc8e7f95a90 DependenciesID=8e89e780de9ef8d0202cacdf2e28ba7f StaticDependenciesID=3c15e0eeb609c7202e6d142e166e20c8 
+Refreshing native plugins compatible for Editor in 4.18 ms, found 3 plugins.
+Asset Pipeline Refresh (id=4735d916ae2494b619a2ca84b5ace682): Total: 0.034 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: e02a493624edc416d80c6007e1a1a982 - Path: Assets/Scenes/Game.unity' with importer (DefaultImporter)
+Imported 'GUID: e02a493624edc416d80c6007e1a1a982' -> (Import Result ID: '116e7ed8fb32d1c24dc7d53804a3d81a') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=5ad803259acf1f5c207413cc1e8a5511 DependenciesID=ef8d9f0fcbb18cc1de5b61f80165ac68 StaticDependenciesID=6f768d679552297b2637eda8a880c940 
+Asset Pipeline Refresh (id=40abe60ed216649039863e67b0a23c6b): Total: 0.021 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker1] Imported GUID: e02a493624edc416d80c6007e1a1a982 - Path: Assets/Scenes/Game.unity - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '17fa1d9d4481b9a742434f78bd701a8f') in 0.021123625 seconds
+[Worker0] Imported GUID: 77558fb8cabba46d28095ef0e397fa90 - Path: Assets/Fonts/Swiss 911 Ultra Compressed BT Regular SDF.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (Import Result ID: '9b1fd08e2729b0789cc6f85c26f8c5cd') in 0.023166208 seconds
+Opening scene 'Assets/Scenes/Game copy.unity'
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game copy.unity'
+	Deserialize:            9.678 ms
+	Integration:            69.600 ms
+	Integration of assets:  0.136 ms
+	Thread Wait Time:       0.002 ms
+	Total Operation Time:   79.416 ms
+Unloading 254 unused Assets / (379.5 KB). Loaded Objects now: 10954.
+Memory consumption went from 457.1 MB to 456.8 MB.
+Total: 97.540708 ms (FindLiveObjects: 0.379958 ms CreateObjectMapping: 0.099625 ms MarkObjects: 96.530000 ms  DeleteObjects: 0.384625 ms)
+
+[Worker0] Imported GUID: e02a493624edc416d80c6007e1a1a982 - Path: Assets/Scenes/Game.unity - Importer: PreviewImporter -> (Import Result ID: 'fbf23fa933f30ce689d62ee1b1153e30') in 0.009248292 seconds
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            8.411 ms
+	Integration:            115.762 ms
+	Integration of assets:  0.008 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   124.189 ms
+Unloading 10 unused Assets / (98.0 KB). Loaded Objects now: 11132.
+Memory consumption went from 449.3 MB to 449.2 MB.
+Total: 89.368333 ms (FindLiveObjects: 0.371375 ms CreateObjectMapping: 0.099417 ms MarkObjects: 88.695041 ms  DeleteObjects: 0.042083 ms)
+
+Opening scene 'Assets/Scenes/MainMenu.unity'
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/MainMenu.unity'
+	Deserialize:            3.136 ms
+	Integration:            44.644 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   47.788 ms
+Unloading 80 unused Assets / (3.0 MB). Loaded Objects now: 10635.
+Memory consumption went from 447.5 MB to 444.6 MB.
+Total: 87.285542 ms (FindLiveObjects: 0.348416 ms CreateObjectMapping: 0.068292 ms MarkObjects: 86.612708 ms  DeleteObjects: 0.098667 ms)
+
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            7.012 ms
+	Integration:            47.933 ms
+	Integration of assets:  0.723 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   55.673 ms
+Unloading 10 unused Assets / (97.9 KB). Loaded Objects now: 11137.
+Memory consumption went from 449.6 MB to 449.5 MB.
+Total: 88.682250 ms (FindLiveObjects: 0.396542 ms CreateObjectMapping: 0.122416 ms MarkObjects: 87.984750 ms  DeleteObjects: 0.033209 ms)
+
+Thread 0x4800cb000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003356 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            3.226 ms
+	Integration:            48.219 ms
+	Integration of assets:  0.024 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   51.472 ms
+Thread 0x489d73000 may have been prematurely finalized
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.920 ms
+	Integration:            49.943 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   51.871 ms
+Unloading 12 unused Assets / (0.7 MB). Loaded Objects now: 10992.
+Memory consumption went from 429.5 MB to 428.9 MB.
+Total: 86.187334 ms (FindLiveObjects: 0.387875 ms CreateObjectMapping: 0.101542 ms MarkObjects: 85.501875 ms  DeleteObjects: 0.041125 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Opening scene 'Assets/Scenes/MainMenu.unity'
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/MainMenu.unity'
+	Deserialize:            1.264 ms
+	Integration:            46.155 ms
+	Integration of assets:  0.129 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   47.555 ms
+Unloading 78 unused Assets / (3.5 MB). Loaded Objects now: 10647.
+Memory consumption went from 447.4 MB to 443.9 MB.
+Total: 91.220375 ms (FindLiveObjects: 0.357875 ms CreateObjectMapping: 0.091083 ms MarkObjects: 90.551417 ms  DeleteObjects: 0.072500 ms)
+
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            5.855 ms
+	Integration:            49.105 ms
+	Integration of assets:  0.052 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   55.017 ms
+Unloading 10 unused Assets / (97.9 KB). Loaded Objects now: 11142.
+Memory consumption went from 449.4 MB to 449.3 MB.
+Total: 90.061000 ms (FindLiveObjects: 0.364250 ms CreateObjectMapping: 0.100750 ms MarkObjects: 89.407708 ms  DeleteObjects: 0.035166 ms)
+
+Opening scene 'Assets/Scenes/Game copy.unity'
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game copy.unity'
+	Deserialize:            3.938 ms
+	Integration:            48.831 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   52.778 ms
+Unloading 78 unused Assets / (3.5 MB). Loaded Objects now: 10964.
+Memory consumption went from 447.4 MB to 443.9 MB.
+Total: 87.308500 ms (FindLiveObjects: 0.499500 ms CreateObjectMapping: 0.356208 ms MarkObjects: 86.212625 ms  DeleteObjects: 0.080334 ms)
+
+Opening scene 'Assets/Scenes/MainMenu.unity'
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/MainMenu.unity'
+	Deserialize:            3.135 ms
+	Integration:            45.705 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   48.847 ms
+Unloading 4 unused Assets / (86.9 KB). Loaded Objects now: 10647.
+Memory consumption went from 443.7 MB to 443.7 MB.
+Total: 87.527750 ms (FindLiveObjects: 0.361625 ms CreateObjectMapping: 0.093334 ms MarkObjects: 86.904041 ms  DeleteObjects: 0.030083 ms)
+
+Opening scene 'Assets/Scenes/Game copy.unity'
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game copy.unity'
+	Deserialize:            2.939 ms
+	Integration:            45.701 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   48.648 ms
+Unloading 4 unused Assets / (86.9 KB). Loaded Objects now: 10964.
+Memory consumption went from 444.0 MB to 443.9 MB.
+Total: 91.184541 ms (FindLiveObjects: 0.364208 ms CreateObjectMapping: 0.099542 ms MarkObjects: 90.548958 ms  DeleteObjects: 0.031000 ms)
+
+Thread 0x47d293000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002864 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.828 ms
+	Integration:            46.248 ms
+	Integration of assets:  0.010 ms
+	Thread Wait Time:       0.003 ms
+	Total Operation Time:   48.088 ms
+Thread 0x47b08f000 may have been prematurely finalized
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.674 ms
+	Integration:            50.300 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   51.981 ms
+Unloading 5 unused Assets / (0.7 MB). Loaded Objects now: 10821.
+Memory consumption went from 425.3 MB to 424.7 MB.
+Total: 88.987041 ms (FindLiveObjects: 0.359333 ms CreateObjectMapping: 0.087708 ms MarkObjects: 88.346334 ms  DeleteObjects: 0.048375 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            16.277 ms
+	Integration:            124.879 ms
+	Integration of assets:  0.076 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   141.239 ms
+Unloading 11 unused Assets / (13.9 MB). Loaded Objects now: 11148.
+Memory consumption went from 460.5 MB to 446.6 MB.
+Total: 95.445542 ms (FindLiveObjects: 0.399958 ms CreateObjectMapping: 0.148084 ms MarkObjects: 94.713500 ms  DeleteObjects: 0.037917 ms)
+
+Thread 0x47b00f000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002465 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.932 ms
+	Integration:            49.538 ms
+	Integration of assets:  0.023 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   51.502 ms
+Thread 0x487d2f000 may have been prematurely finalized
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.787 ms
+	Integration:            51.770 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   53.564 ms
+Unloading 12 unused Assets / (0.7 MB). Loaded Objects now: 11003.
+Memory consumption went from 429.6 MB to 428.9 MB.
+Total: 93.170208 ms (FindLiveObjects: 0.375250 ms CreateObjectMapping: 0.105083 ms MarkObjects: 92.506375 ms  DeleteObjects: 0.042750 ms)
+
+Opening scene 'Assets/Scenes/Game copy.unity'
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game copy.unity'
+	Deserialize:            7.479 ms
+	Integration:            49.792 ms
+	Integration of assets:  0.086 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   57.362 ms
+Unloading 78 unused Assets / (3.7 MB). Loaded Objects now: 10974.
+Memory consumption went from 448.0 MB to 444.3 MB.
+Total: 92.861375 ms (FindLiveObjects: 0.385625 ms CreateObjectMapping: 0.125167 ms MarkObjects: 92.128583 ms  DeleteObjects: 0.080833 ms)
+
+Opening scene 'Assets/Scenes/MainMenu.unity'
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/MainMenu.unity'
+	Deserialize:            3.128 ms
+	Integration:            47.014 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   50.149 ms
+Unloading 3 unused Assets / (85.7 KB). Loaded Objects now: 10658.
+Memory consumption went from 444.1 MB to 444.0 MB.
+Total: 97.645500 ms (FindLiveObjects: 0.361458 ms CreateObjectMapping: 0.096833 ms MarkObjects: 97.015959 ms  DeleteObjects: 0.030709 ms)
+
+Thread 0x47b09b000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.002086 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.445 ms
+	Integration:            49.124 ms
+	Integration of assets:  0.009 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   49.583 ms
+Thread 0x47b093000 may have been prematurely finalized
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.427 ms
+	Integration:            49.150 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.008 ms
+	Total Operation Time:   49.585 ms
+Unloading 5 unused Assets / (0.7 MB). Loaded Objects now: 10515.
+Memory consumption went from 425.6 MB to 424.9 MB.
+Total: 93.442500 ms (FindLiveObjects: 0.360833 ms CreateObjectMapping: 0.080584 ms MarkObjects: 92.820875 ms  DeleteObjects: 0.039917 ms)
+
+Asset Pipeline Refresh (id=25c3393d3828e419d9d01fe9cbd4b0a0): Total: 0.201 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=8ba30101435744775b7dd32f597d592a): Total: 0.149 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            11.684 ms
+	Integration:            187.425 ms
+	Integration of assets:  0.074 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   199.188 ms
+Unloading 9 unused Assets / (5.3 MB). Loaded Objects now: 11159.
+Memory consumption went from 452.2 MB to 446.9 MB.
+Total: 115.500917 ms (FindLiveObjects: 0.386458 ms CreateObjectMapping: 0.083334 ms MarkObjects: 114.831333 ms  DeleteObjects: 0.057375 ms)
+
+Opening scene 'Assets/Scenes/Game copy.unity'
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game copy.unity'
+	Deserialize:            6.013 ms
+	Integration:            48.167 ms
+	Integration of assets:  0.003 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   54.187 ms
+Unloading 78 unused Assets / (3.5 MB). Loaded Objects now: 10980.
+Memory consumption went from 447.5 MB to 444.0 MB.
+Total: 96.128459 ms (FindLiveObjects: 0.360292 ms CreateObjectMapping: 0.088875 ms MarkObjects: 95.438875 ms  DeleteObjects: 0.074625 ms)
+
+2026-09-13 22:29:33.298 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc094dc0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=3cedf2ba84a904859b3aabe028650eab): Total: 0.066 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=13ed32a6eeaef46218a16594bf60a8ce): Total: 0.139 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Importing 'GUID: 00000000000000009000000000000000 - Path: ProjectSettings/QualitySettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 00000000000000009000000000000000' -> (Import Result ID: '403c6c1a416723476486c6c76ad86f7f') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=43b4ee972f78e910f47a00fe3c96f65c DependenciesID=1aedbe56ae62f321fe459982db2fa012 StaticDependenciesID=e9a43e809c5953780a851aff477bfce8 
+Refreshing native plugins compatible for Editor in 2.78 ms, found 3 plugins.
+Asset Pipeline Refresh (id=35892634c0ed24a24967d3e85c23aac1): Total: 0.022 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Importing 'GUID: 94d651424394d444ba6aec60755da9ec - Path: Assets/Scenes/Game copy.unity' with importer (DefaultImporter)
+Imported 'GUID: 94d651424394d444ba6aec60755da9ec' -> (Import Result ID: '68a08d0baf226c1a617dedbeacaf70ea') in 0.000 seconds [static dependencies only]. Details - ImportResultOutputID=958c90c1e564f6bc545b920375bc8191 DependenciesID=2b6ecf27e0427007e789e28763043e7e StaticDependenciesID=6f641f7303e9364c65501905a3959020 
+Asset Pipeline Refresh (id=bf5aca6a889384900a3230a7cd17503b): Total: 0.031 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            7.109 ms
+	Integration:            51.202 ms
+	Integration of assets:  0.104 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   58.420 ms
+Unloading 173 unused Assets / (2.3 MB). Loaded Objects now: 11157.
+Memory consumption went from 457.0 MB to 454.7 MB.
+Total: 93.059041 ms (FindLiveObjects: 0.365959 ms CreateObjectMapping: 0.091041 ms MarkObjects: 92.324167 ms  DeleteObjects: 0.136125 ms)
+
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            2.965 ms
+	Integration:            49.834 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   52.806 ms
+Unloading 17 unused Assets / (101.6 KB). Loaded Objects now: 11157.
+Memory consumption went from 448.3 MB to 448.2 MB.
+Total: 92.355750 ms (FindLiveObjects: 0.372500 ms CreateObjectMapping: 0.107333 ms MarkObjects: 91.682708 ms  DeleteObjects: 0.048791 ms)
+
+2026-09-13 22:29:52.930 Unity[60376:1602523] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x8dc0a0000 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Asset Pipeline Refresh (id=c88ba4375fdf24fe1bbd9370aa1cd131): Total: 0.047 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=53b323e6b218142b69b7ea81a3697572): Total: 0.149 seconds - Initiated by RefreshV2(ForceSynchronousImport)
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            2.931 ms
+	Integration:            49.812 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   52.751 ms
+Unloading 23 unused Assets / (385.4 KB). Loaded Objects now: 11157.
+Memory consumption went from 448.6 MB to 448.2 MB.
+Total: 96.197709 ms (FindLiveObjects: 0.362000 ms CreateObjectMapping: 0.105417 ms MarkObjects: 95.542667 ms  DeleteObjects: 0.035292 ms)
+
+Opening scene 'Assets/Scenes/MainMenu.unity'
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/MainMenu.unity'
+	Deserialize:            0.726 ms
+	Integration:            47.801 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   48.534 ms
+Unloading 78 unused Assets / (3.5 MB). Loaded Objects now: 10662.
+Memory consumption went from 447.4 MB to 443.8 MB.
+Total: 96.594375 ms (FindLiveObjects: 0.360541 ms CreateObjectMapping: 0.085250 ms MarkObjects: 95.930500 ms  DeleteObjects: 0.074667 ms)
+
+Opening scene 'Assets/Scenes/Game.unity'
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Game.unity'
+	Deserialize:            3.117 ms
+	Integration:            51.632 ms
+	Integration of assets:  0.034 ms
+	Thread Wait Time:       0.007 ms
+	Total Operation Time:   54.790 ms
+Unloading 10 unused Assets / (98.0 KB). Loaded Objects now: 11157.
+Memory consumption went from 449.4 MB to 449.3 MB.
+Total: 94.825917 ms (FindLiveObjects: 0.369167 ms CreateObjectMapping: 0.105125 ms MarkObjects: 94.179958 ms  DeleteObjects: 0.031000 ms)
+
+Thread 0x47b00f000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.003989 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.719 ms
+	Integration:            56.591 ms
+	Integration of assets:  0.024 ms
+	Thread Wait Time:       0.004 ms
+	Total Operation Time:   59.338 ms
+Thread 0x489d73000 may have been prematurely finalized
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            1.865 ms
+	Integration:            53.359 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.006 ms
+	Total Operation Time:   55.231 ms
+Unloading 12 unused Assets / (0.6 MB). Loaded Objects now: 11012.
+Memory consumption went from 429.7 MB to 429.1 MB.
+Total: 92.292417 ms (FindLiveObjects: 0.391250 ms CreateObjectMapping: 0.179208 ms MarkObjects: 91.529250 ms  DeleteObjects: 0.047500 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Asset Pipeline Refresh (id=e129d595964004c628f7b40515cb03e8): Total: 0.219 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "gE_VXRL_"... (expires: 2026-09-14T00:19:52Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "HgGTSV7d"... (expires: 2026-09-14T02:20:22Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "PROslUzc"... (expires: 2026-09-14T04:25:38Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "7HPK_aCC"... (expires: 2026-09-14T06:33:09Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "qOFmT40-"... (expires: 2026-09-14T08:36:12Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 35: Cert verify failed. Certificate could not be verified (either omitted or unsupported). UnityTls error code: 7
+Curl error 56: Recv failure: Can't assign requested address
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "8w9N7Z7t"... (expires: 2026-09-14T11:16:58Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+[Licensing::Client] Successfully resolved entitlement details
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+Curl error 6: Could not resolve: cdp.cloud.unity3d.com:443
+Asset Pipeline Refresh (id=d41a026bb9dc040308e0e18767fb8921): Total: 0.196 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Curl error 6: Could not resolve: engine-data.unity3d.com:443
+Thread 0x4724c3000 may have been prematurely finalized
+SpriteAtlasPacking completed in 0.086156 sec
+Entering Playmode with Reload Domain disabled.
+If you experience any issues, please disable "Enter Play Mode Options" in Editor Settings
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            35.113 ms
+	Integration:            160.086 ms
+	Integration of assets:  0.167 ms
+	Thread Wait Time:       -0.009 ms
+	Total Operation Time:   195.358 ms
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Curl error 6: Could not resolve host: cdp.cloud.unity3d.com
+Thread 0x4724c3000 may have been prematurely finalized
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            2.179 ms
+	Integration:            55.018 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   57.203 ms
+Unloading 11 unused Assets / (0.6 MB). Loaded Objects now: 11017.
+Memory consumption went from 430.2 MB to 429.6 MB.
+Total: 119.955083 ms (FindLiveObjects: 0.459208 ms CreateObjectMapping: 0.275167 ms MarkObjects: 116.216125 ms  DeleteObjects: 2.858500 ms)
+
+[Licensing::Client] Successfully resolved entitlement details
